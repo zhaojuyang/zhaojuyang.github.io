@@ -15,25 +15,17 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 
 Selected publications
 ======
-1. Q. Liang#, Z. Dong#,J.-S. Pan#, H. Wang, H. Li, Z. Yang*, W. Yi* &B. Yan*. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. Nature Physics 20,1738 (2024). 
+1. Q. Liang#, Z. Dong#,J.-S. Pan#, H. Wang, H. Li, Z. Yang*, W. Yi* & B. Yan*. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. Nature Physics 20,1738 (2024). 
 1. Y. Sun#, X. Hou#, T. Wan, F. Wang, S. Zhu, Z. Ruan*, Z. Yang*. Photonic Floquet skin-topological effect. Phys. Rev. Lett. 132, 063804 (2024). ESI highly cited paper.
 1. Z. Dong#, H. Li#, T. Wan#, Q. Liang, Z. Yang*, B. Yan*. Quantum time reflection and refraction of ultracold atoms. Nature Photonics 18, 68-73 (2024). ESI highly cited paper.
 1. H. Zhang#, Y. Sun#, J. Huang#, B. Wu, Z. Yang*, K. Y. Bliokh, Z. Ruan*. Topologically crafted spatiotemporal vortices in acoustics. Nature Communications 14, 6238 (2023).
 1. T. Biesenthal, L. Maczewsky, Z. Yang*, M. Kremer, M. Segev, A. Szameit*, M. Heinrich*. Fractal photonic topological insulator. Science 376, 1114-1119 (2022). Physics World. ESI highly cited paper.
 1. Z. Yang, E. Lustig, Y. Lumer and M. Segev*. Photonic Floquet topological insulators in a fractal lattice. Light: Science & Applications 9, 128 (2020).
-1. Z. Yang, E. Lustig, Y. Lumer and M. Segev*. Photonic Floquet topological insulators in a fractal lattice. Light: Science & Applications 9, 128 (2020).
 1. Z. Yang#, E. Lustig#, G. Harari, Y. Plotnik, Y. Lumer, M. Bandres, and M. Segev*. Mode-locked topological insulator laser utilizing synthetic dimensions. Phys. Rev. X 10, 011059 (2020).
 1. F. Gao#, H. Xue#, Z. Yang*, K. Lai, Y. Yu, X. Lin, Y. Chong, G. Shvets*, B. Zhang*. Topologically-protected refraction of robust kink states in valley photonic crystals. Nature Physics 14, 140-144 (2018). ESI highly cited paper.
-Z. Yang, F. Gao, Y. Yang, and B. Zhang*. Strain-induced gauge field and Landau levels in acoustic structures. Phys. Rev. Lett. 118, 194301 (2017).
-Z. Yang, B. Zhang*. Acoustic type-II Weyl nodes from stacking dimerized chains. Phys. Rev. Lett. 117, 224301 (2016).
-Z. Yang, F. Gao, X. Shi, X. Lin, Z. Gao, Y. Chong, and B. Zhang*. Topological acoustics. Phys. Rev. Lett. 114, 114301 (2015). PRL Editors' suggestion and Featured in physics. ESI highly cited paper.
-
-
-
-
-
-
-
+1. Z. Yang, F. Gao, Y. Yang, and B. Zhang*. Strain-induced gauge field and Landau levels in acoustic structures. Phys. Rev. Lett. 118, 194301 (2017).
+1. Z. Yang, B. Zhang*. Acoustic type-II Weyl nodes from stacking dimerized chains. Phys. Rev. Lett. 117, 224301 (2016).
+1. Z. Yang, F. Gao, X. Shi, X. Lin, Z. Gao, Y. Chong, and B. Zhang*. Topological acoustics. Phys. Rev. Lett. 114, 114301 (2015). PRL Editors' suggestion and Featured in physics. ESI highly cited paper.
 
 <!-- 
 Research Interest
