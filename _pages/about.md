@@ -16,17 +16,17 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 Selected publications
 ======
 A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=9HWoXRUAAAAJ).
-1. :star: Q. Liang#, Z. Dong#,J.-S. Pan#, H. Wang, H. Li, **Z. Yang**<sup>$\dagger$</sup>, W. Yi<sup>$\dagger$</sup> & B. Yan<sup>$\dagger$</sup>. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. Nature Physics 20,1738 (2024). 
+1. :star: Q. Liang#, Z. Dong#,J.-S. Pan#, H. Wang, H. Li, **Z. Yang**<sup>$\ast$</sup>, W. Yi<sup>$\ast$</sup> & B. Yan<sup>$\ast$</sup>. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. Nature Physics 20,1738 (2024). 
 1. Y. Sun#, X. Hou#, T. Wan, F. Wang, S. Zhu, Z. Ruan<sup>$\dagger$</sup>, **Z. Yang**<sup>$\dagger$</sup>. Photonic Floquet skin-topological effect. Phys. Rev. Lett. 132, 063804 (2024). ESI highly cited paper.
-1. Z. Dong#, H. Li#, T. Wan#, Q. Liang, **Z. Yang**<sup>$\dagger$</sup>, B. Yan<sup>$\dagger$</sup>. Quantum time reflection and refraction of ultracold atoms. Nature Photonics 18, 68-73 (2024). ESI highly cited paper.
-1. H. Zhang#, Y. Sun#, J. Huang#, B. Wu, **Z. Yang**<sup>$\dagger$</sup>, K. Y. Bliokh, Z. Ruan<sup>$\dagger$</sup>. Topologically crafted spatiotemporal vortices in acoustics. Nature Communications 14, 6238 (2023).
-1. T. Biesenthal, L. Maczewsky, **Z. Yang**<sup>$\dagger$</sup>, M. Kremer, M. Segev, A. Szameit<sup>$\dagger$</sup>, M. Heinrich<sup>$\dagger$</sup>. Fractal photonic topological insulator. Science 376, 1114-1119 (2022). Physics World. ESI highly cited paper.
-1. **Z. Yang**, E. Lustig, Y. Lumer and M. Segev<sup>$\dagger$</sup>. Photonic Floquet topological insulators in a fractal lattice. Light: Science & Applications 9, 128 (2020).
-1. **Z. Yang**#, E. Lustig#, G. Harari, Y. Plotnik, Y. Lumer, M. Bandres, and M. Segev<sup>$\dagger$</sup>. Mode-locked topological insulator laser utilizing synthetic dimensions. Phys. Rev. X 10, 011059 (2020).
-1. F. Gao#, H. Xue#, **Z. Yang**<sup>$\dagger$</sup>, K. Lai, Y. Yu, X. Lin, Y. Chong, G. Shvets<sup>$\dagger$</sup>, B. Zhang<sup>$\dagger$</sup>. Topologically-protected refraction of robust kink states in valley photonic crystals. Nature Physics 14, 140-144 (2018). ESI highly cited paper.
-1. **Z. Yang**, F. Gao, Y. Yang, and B. Zhang<sup>$\dagger$</sup>. Strain-induced gauge field and Landau levels in acoustic structures. Phys. Rev. Lett. 118, 194301 (2017).
-1. **Z. Yang**, B. Zhang<sup>$\dagger$</sup>. Acoustic type-II Weyl nodes from stacking dimerized chains. Phys. Rev. Lett. 117, 224301 (2016).
-1. **Z. Yang**, F. Gao, X. Shi, X. Lin, Z. Gao, Y. Chong, and B. Zhang<sup>$\dagger$</sup>. Topological acoustics. Phys. Rev. Lett. 114, 114301 (2015). PRL Editors' suggestion and Featured in physics. ESI highly cited paper.
+1. Z. Dong#, H. Li#, T. Wan#, Q. Liang, **Z. Yang**<sup>$\ast$</sup>, B. Yan<sup>$\ast$</sup>. Quantum time reflection and refraction of ultracold atoms. Nature Photonics 18, 68-73 (2024). ESI highly cited paper.
+1. H. Zhang#, Y. Sun#, J. Huang#, B. Wu, **Z. Yang**<sup>$\ast$</sup>, K. Y. Bliokh, Z. Ruan<sup>$\ast$</sup>. Topologically crafted spatiotemporal vortices in acoustics. Nature Communications 14, 6238 (2023).
+1. T. Biesenthal, L. Maczewsky, **Z. Yang**<sup>$\dagger$</sup>, M. Kremer, M. Segev, A. Szameit<sup>$\ast$</sup>, M. Heinrich<sup>$\ast$</sup>. Fractal photonic topological insulator. Science 376, 1114-1119 (2022). Physics World. ESI highly cited paper.
+1. **Z. Yang**, E. Lustig, Y. Lumer and M. Segev<sup>$\ast$</sup>. Photonic Floquet topological insulators in a fractal lattice. Light: Science & Applications 9, 128 (2020).
+1. **Z. Yang**#, E. Lustig#, G. Harari, Y. Plotnik, Y. Lumer, M. Bandres, and M. Segev<sup>$\ast$</sup>. Mode-locked topological insulator laser utilizing synthetic dimensions. Phys. Rev. X 10, 011059 (2020).
+1. F. Gao#, H. Xue#, **Z. Yang**<sup>$\ast$</sup>, K. Lai, Y. Yu, X. Lin, Y. Chong, G. Shvets<sup>$\ast$</sup>, B. Zhang<sup>$\ast$</sup>. Topologically-protected refraction of robust kink states in valley photonic crystals. Nature Physics 14, 140-144 (2018). ESI highly cited paper.
+1. **Z. Yang**, F. Gao, Y. Yang, and B. Zhang<sup>$\ast$</sup>. Strain-induced gauge field and Landau levels in acoustic structures. Phys. Rev. Lett. 118, 194301 (2017).
+1. **Z. Yang**, B. Zhang<sup>$\ast$</sup>. Acoustic type-II Weyl nodes from stacking dimerized chains. Phys. Rev. Lett. 117, 224301 (2016).
+1. **Z. Yang**, F. Gao, X. Shi, X. Lin, Z. Gao, Y. Chong, and B. Zhang<sup>$\ast$</sup>. Topological acoustics. Phys. Rev. Lett. 114, 114301 (2015). PRL Editors' suggestion and Featured in physics. ESI highly cited paper.
 
 <!-- 
 Research Interest
