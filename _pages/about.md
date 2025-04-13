@@ -12,7 +12,7 @@ My name is Zhaoju Yang (杨兆举). Currently, I am a tenure-track research prof
 Research Interest
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
+<!-- 
 Selected publications
 ======
 1. Q. Liang#, Z. Dong#,J.-S. Pan#, H. Wang, H. Li, Z. Yang*, W. Yi* & B. Yan*. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. Nature Physics 20,1738 (2024). 
@@ -27,7 +27,7 @@ Selected publications
 1. Z. Yang, B. Zhang*. Acoustic type-II Weyl nodes from stacking dimerized chains. Phys. Rev. Lett. 117, 224301 (2016).
 1. Z. Yang, F. Gao, X. Shi, X. Lin, Z. Gao, Y. Chong, and B. Zhang*. Topological acoustics. Phys. Rev. Lett. 114, 114301 (2015). PRL Editors' suggestion and Featured in physics. ESI highly cited paper.
 
-<!-- 
+
 Research Interest
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
