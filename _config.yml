@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Y lab"
+title                    : "Y Lab"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zhaoju Yang"
 description              : &description "personal description"
 url                      : https://zhaojuyang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,17 +25,17 @@ author:
   avatar           : "profile.png"
   name             : "Zhaoju Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Quantum simulation and quantum computation" #"Short biography for the left-hand sidebar"
+  bio              : #"Quantum simulation and quantum computation" #"Short biography for the left-hand sidebar"
   location         : "Hangzhou, CN"
-  employer         : "Zhejiang University"
+  employer         : "School of physics, Zhejiang University"
   uri              : # URL
   email            : "zhaojuyang@zju.edu.cn" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=9HWoXRUAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=9HWoXRUAAAAJ"
   # impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0002-9880-2655"
+  orcid            : #"http://orcid.org/0000-0002-9880-2655"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
@@ -45,12 +45,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "zhaojuyang"
+  github           : #"zhaojuyang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
