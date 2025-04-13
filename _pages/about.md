@@ -16,7 +16,7 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 Selected publications
 ======
 A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=9HWoXRUAAAAJ).
-1. :star: Q. Liang<sup>#</sup>, Z. Dong<sup>#</sup>,J.-S. Pan<sup>#</sup>, H. Wang, H. Li, **Z. Yang**<sup>$\ast$</sup>, W. Yi<sup>$\ast$</sup> & B. Yan<sup>$\ast$</sup>. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. Nature Physics 20,1738 (2024). 
+1. :star: Q. Liang<sup>$\dagger$</sup>, Z. Dong<sup>$\dagger$</sup>,J.-S. Pan<sup>$\dagger$</sup>, H. Wang, H. Li, **Z. Yang**<sup>$\ast$</sup>, W. Yi<sup>$\ast$</sup> & B. Yan<sup>$\ast$</sup>. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. Nature Physics 20,1738 (2024). 
 1. Y. Sun#, X. Hou#, T. Wan, F. Wang, S. Zhu, Z. Ruan<sup>$\dagger$</sup>, **Z. Yang**<sup>$\dagger$</sup>. Photonic Floquet skin-topological effect. Phys. Rev. Lett. 132, 063804 (2024). ESI highly cited paper.
 1. Z. Dong#, H. Li#, T. Wan#, Q. Liang, **Z. Yang**<sup>$\ast$</sup>, B. Yan<sup>$\ast$</sup>. Quantum time reflection and refraction of ultracold atoms. Nature Photonics 18, 68-73 (2024). ESI highly cited paper.
 1. H. Zhang#, Y. Sun#, J. Huang#, B. Wu, **Z. Yang**<sup>$\ast$</sup>, K. Y. Bliokh, Z. Ruan<sup>$\ast$</sup>. Topologically crafted spatiotemporal vortices in acoustics. Nature Communications 14, 6238 (2023).
