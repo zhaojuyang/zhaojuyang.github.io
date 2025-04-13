@@ -12,22 +12,23 @@ My name is Zhaoju Yang (杨兆举). Currently, I am a tenure-track research prof
 Research Interest
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-<!-- 
+
 Selected publications
 ======
-1. Q. Liang#, Z. Dong#,J.-S. Pan#, H. Wang, H. Li, Z. Yang*, W. Yi* & B. Yan*. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. Nature Physics 20,1738 (2024). 
-1. Y. Sun#, X. Hou#, T. Wan, F. Wang, S. Zhu, Z. Ruan*, Z. Yang*. Photonic Floquet skin-topological effect. Phys. Rev. Lett. 132, 063804 (2024). ESI highly cited paper.
-1. Z. Dong#, H. Li#, T. Wan#, Q. Liang, Z. Yang*, B. Yan*. Quantum time reflection and refraction of ultracold atoms. Nature Photonics 18, 68-73 (2024). ESI highly cited paper.
-1. H. Zhang#, Y. Sun#, J. Huang#, B. Wu, Z. Yang*, K. Y. Bliokh, Z. Ruan*. Topologically crafted spatiotemporal vortices in acoustics. Nature Communications 14, 6238 (2023).
-1. T. Biesenthal, L. Maczewsky, Z. Yang*, M. Kremer, M. Segev, A. Szameit*, M. Heinrich*. Fractal photonic topological insulator. Science 376, 1114-1119 (2022). Physics World. ESI highly cited paper.
-1. Z. Yang, E. Lustig, Y. Lumer and M. Segev*. Photonic Floquet topological insulators in a fractal lattice. Light: Science & Applications 9, 128 (2020).
-1. Z. Yang#, E. Lustig#, G. Harari, Y. Plotnik, Y. Lumer, M. Bandres, and M. Segev*. Mode-locked topological insulator laser utilizing synthetic dimensions. Phys. Rev. X 10, 011059 (2020).
-1. F. Gao#, H. Xue#, Z. Yang*, K. Lai, Y. Yu, X. Lin, Y. Chong, G. Shvets*, B. Zhang*. Topologically-protected refraction of robust kink states in valley photonic crystals. Nature Physics 14, 140-144 (2018). ESI highly cited paper.
-1. Z. Yang, F. Gao, Y. Yang, and B. Zhang*. Strain-induced gauge field and Landau levels in acoustic structures. Phys. Rev. Lett. 118, 194301 (2017).
-1. Z. Yang, B. Zhang*. Acoustic type-II Weyl nodes from stacking dimerized chains. Phys. Rev. Lett. 117, 224301 (2016).
-1. Z. Yang, F. Gao, X. Shi, X. Lin, Z. Gao, Y. Chong, and B. Zhang*. Topological acoustics. Phys. Rev. Lett. 114, 114301 (2015). PRL Editors' suggestion and Featured in physics. ESI highly cited paper.
+A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=9HWoXRUAAAAJ).
+1. :star: Q. Liang#, Z. Dong#,J.-S. Pan#, H. Wang, H. Li, **Z. Yang**<sup>$\dagger$</sup>, W. Yi<sup>$\dagger$</sup> & B. Yan<sup>$\dagger$</sup>. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. Nature Physics 20,1738 (2024). 
+1. Y. Sun#, X. Hou#, T. Wan, F. Wang, S. Zhu, Z. Ruan<sup>$\dagger$</sup>, **Z. Yang**<sup>$\dagger$</sup>. Photonic Floquet skin-topological effect. Phys. Rev. Lett. 132, 063804 (2024). ESI highly cited paper.
+1. Z. Dong#, H. Li#, T. Wan#, Q. Liang, **Z. Yang**<sup>$\dagger$</sup>, B. Yan<sup>$\dagger$</sup>. Quantum time reflection and refraction of ultracold atoms. Nature Photonics 18, 68-73 (2024). ESI highly cited paper.
+1. H. Zhang#, Y. Sun#, J. Huang#, B. Wu, **Z. Yang**<sup>$\dagger$</sup>, K. Y. Bliokh, Z. Ruan<sup>$\dagger$</sup>. Topologically crafted spatiotemporal vortices in acoustics. Nature Communications 14, 6238 (2023).
+1. T. Biesenthal, L. Maczewsky, **Z. Yang**<sup>$\dagger$</sup>, M. Kremer, M. Segev, A. Szameit<sup>$\dagger$</sup>, M. Heinrich<sup>$\dagger$</sup>. Fractal photonic topological insulator. Science 376, 1114-1119 (2022). Physics World. ESI highly cited paper.
+1. **Z. Yang**, E. Lustig, Y. Lumer and M. Segev<sup>$\dagger$</sup>. Photonic Floquet topological insulators in a fractal lattice. Light: Science & Applications 9, 128 (2020).
+1. **Z. Yang**#, E. Lustig#, G. Harari, Y. Plotnik, Y. Lumer, M. Bandres, and M. Segev<sup>$\dagger$</sup>. Mode-locked topological insulator laser utilizing synthetic dimensions. Phys. Rev. X 10, 011059 (2020).
+1. F. Gao#, H. Xue#, **Z. Yang**<sup>$\dagger$</sup>, K. Lai, Y. Yu, X. Lin, Y. Chong, G. Shvets<sup>$\dagger$</sup>, B. Zhang<sup>$\dagger$</sup>. Topologically-protected refraction of robust kink states in valley photonic crystals. Nature Physics 14, 140-144 (2018). ESI highly cited paper.
+1. **Z. Yang**, F. Gao, Y. Yang, and B. Zhang<sup>$\dagger$</sup>. Strain-induced gauge field and Landau levels in acoustic structures. Phys. Rev. Lett. 118, 194301 (2017).
+1. **Z. Yang**, B. Zhang<sup>$\dagger$</sup>. Acoustic type-II Weyl nodes from stacking dimerized chains. Phys. Rev. Lett. 117, 224301 (2016).
+1. **Z. Yang**, F. Gao, X. Shi, X. Lin, Z. Gao, Y. Chong, and B. Zhang<sup>$\dagger$</sup>. Topological acoustics. Phys. Rev. Lett. 114, 114301 (2015). PRL Editors' suggestion and Featured in physics. ESI highly cited paper.
 
-
+<!-- 
 Research Interest
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
