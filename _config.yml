@@ -198,8 +198,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 mathjax: true         ## Add tex
-plugins:
-  - jekyll-mathjax  # 需安装插件
   
 # Markdown Processing
 kramdown:
@@ -211,7 +209,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
+  math_engine: mathjax
 
 # These settings control the types of collections used by the template
 collections:
@@ -307,7 +305,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-
+  - jekyll-mathjax
+  
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
