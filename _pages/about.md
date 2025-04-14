@@ -34,7 +34,7 @@ Laser & Photonics Reviews 2402238 (2025). First published: 22 March 2025.
 
 1. :trophy: Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. <br>
 Q. Liang<sup>#</sup>, Z. Dong<sup>#</sup>,J.-S. Pan<sup>#</sup>, H. Wang, H. Li, **Z. Yang**<sup>†</sup>, W. Yi<sup>†</sup> & B. Yan<sup>†</sup>. <br>
-[Nature Physics 20, 1738-1743 (2024)](https://www.nature.com/articles/s41567-024-02644-4). [Nature Physics: Research Briefing](https://www.nature.com/articles/s41567-024-02645-3). 20 Sep. 2024.
+[Nature Physics 20, 1738-1743 (2024)](https://www.nature.com/articles/s41567-024-02644-4). [Research Briefing](https://www.nature.com/articles/s41567-024-02645-3). 20 Sep. 2024.
 
 1. :trophy: Photonic Floquet skin-topological effect. <br>
  Y. Sun<sup>#</sup>, X. Hou<sup>#</sup>, T. Wan, F. Wang, S. Zhu, Z. Ruan<sup>†</sup>, **Z. Yang**<sup>†</sup>. <br>
@@ -54,8 +54,9 @@ Optical Materials Express 14 (7), 1670-1675 (2024). June 6, 2024. Virtual Issues
 
 1. :trophy: Quantum time reflection and refraction of ultracold atoms. <br>
 Z. Dong<sup>#</sup>, H. Li<sup>#</sup>, T. Wan<sup>#</sup>, Q. Liang, **Z. Yang**<sup>†</sup>, B. Yan<sup>†</sup>. <br>
-[Nature Photonics 18, 68-73 (2024)](https://www.nature.com/articles/s41566-023-01290-1). Sep. 18, 2023 [arXiv:2303.02963 (2023). Mar. 6]. ESI highly cited paper. <br>
-[Nature Photonics News & Views ‘Reflection and refraction at a time boundary’](https://www.nature.com/articles/s41566-023-01343-5).
+[Nature Photonics 18, 68-73 (2024)](https://www.nature.com/articles/s41566-023-01290-1). Sep. 18, 2023. <br>
+[News & Views](https://www.nature.com/articles/s41566-023-01343-5):Reflection and refraction at a time boundary. <br>
+ESI highly cited paper. [[arXiv,](https://arxiv.org/abs/2303.02963) 6 Mar. 2023]
 
 1. Observation of the geometry-dependent skin effect and dynamical degeneracy splitting. <br>
 T. Wan, K. Zhang, J. Li, Z. Yang<sup>†</sup>, **Z. Yang**<sup>†</sup>. <br>
