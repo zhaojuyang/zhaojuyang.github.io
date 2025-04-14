@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhaoju Yang (杨兆举). Currently, I am a tenure-track research professor of [School of Physics](https://physics.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) at Hangzhou city, China.  
+My name is Zhaoju Yang (杨兆举). Currently, I am a tenure-track professor of [School of Physics](https://physics.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) at Hangzhou city, China.  
 **Experience**  
 2020.09-: School of Physics, Zhejiang University.  
 2018-2020: Postdoc Fellow at Technion – Israel Institute of Technology.  
-2013-2017: PhD. in physics at [Nanyang Technological University](https://www.ntu.edu.sg/spms/about-us/physics) - NTU Singapore.  
+2013-2017: PhD. in physics at Nanyang Technological University - NTU Singapore.  
 2009-2013: BSc. in physics at Jilin University.  
 **Teaching**  
 Mechanics, undergraduate <br>
@@ -55,7 +55,7 @@ Optical Materials Express 14 (7), 1670-1675 (2024). June 6, 2024. Virtual Issues
 1. :trophy: Quantum time reflection and refraction of ultracold atoms. <br>
 Z. Dong<sup>#</sup>, H. Li<sup>#</sup>, T. Wan<sup>#</sup>, Q. Liang, **Z. Yang**<sup>†</sup>, B. Yan<sup>†</sup>. <br>
 [Nature Photonics 18, 68-73 (2024)](https://www.nature.com/articles/s41566-023-01290-1). Sep. 18, 2023. <br>
-[News & Views](https://www.nature.com/articles/s41566-023-01343-5):Reflection and refraction at a time boundary. <br>
+[News & Views](https://www.nature.com/articles/s41566-023-01343-5): Reflection and refraction at a time boundary. <br>
 ESI highly cited paper. [[arXiv,](https://arxiv.org/abs/2303.02963) 6 Mar. 2023]
 
 1. Observation of the geometry-dependent skin effect and dynamical degeneracy splitting. <br>
@@ -96,11 +96,11 @@ E. Lustig, L. Maczewsky, T. Biesenthalk, J. Beck, M. Heinrich, **Z. Yang**, Y. P
 Nature 609, 931-935 (2022).
 
 <!--*Before ZJU:*-->
-1. -------------*Before ZJU*------------- <br>
+1. Before ZJU: <br>
 :trophy: Photonic Floquet topological insulators in a fractal lattice. <br>
 **Z. Yang**, E. Lustig, Y. Lumer and M. Segev<sup>†</sup>. <br>
 [Light: Science & Applications 9, 128 (2020)](https://www.nature.com/articles/s41377-020-00354-z). Editorial Summary.<br>
-Reported by [Phys.org](https://phys.org/news/2020-07-topological-photonics-fractal-lattices.html), [Science Magazine](https://scienmag.com/topological-photonics-in-fractal-lattices/), PhotonicsViews, Bioengineer, IEEE Spectrum, Eurekalert.
+[Phys.org](https://phys.org/news/2020-07-topological-photonics-fractal-lattices.html), [Science Magazine](https://scienmag.com/topological-photonics-in-fractal-lattices/), PhotonicsViews, Bioengineer, IEEE Spectrum, Eurekalert.
 
 1. :trophy: Mode-locked topological insulator laser utilizing synthetic dimensions. <br>
 **Z. Yang**<sup>#</sup>, E. Lustig<sup>#</sup>, G. Harari, Y. Plotnik, Y. Lumer, M. Bandres, and M. Segev<sup>†</sup>. <br>
@@ -150,7 +150,7 @@ Science Advance 3, no. 1, e1601192 (2017).
 1. :trophy: Acoustic type-II Weyl nodes from stacking dimerized chains. <br>
 **Z. Yang**, and B. Zhang<sup>†</sup>. <br>
 [Phys. Rev. Lett. 117, 224301 (2016)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.224301){:target="_blank"}. <br>
-Reported by AAPPS Bulletin, Research Highlights, [Physics Focus](http://aappsbulletin.org/myboard/read.php?Board=focus&id=86).
+Reported by AAPPS Bulletin, Research Highlights, Physics Focus.
 
 1. Synthetic-gauge-field-induced Dirac semimetal state in an acoustic resonator system. <br>
 **Z. Yang**, F. Gao, X. Shi, and B. Zhang<sup>†</sup>. <br>
