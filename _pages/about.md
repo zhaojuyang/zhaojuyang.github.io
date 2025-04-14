@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhaoju Yang (杨兆举). Currently, I am a tenure-track research professor of [School of Physics](https://physics.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) at Hangzhou city, China.
-**Teaching**
-Mechanics, undergraduate
-**Experience**
-2020.09-: School of Physics, Zhejiang University.
-2018-2020: Postdoc Fellow at Technion – Israel Institute of Technology.
-2013-2017: PhD. in physics at [Nanyang Technological University](https://www.ntu.edu.sg/spms/about-us/physics) - NTU Singapore.
-2009-2013: BSc. in physics at Jilin University.
+My name is Zhaoju Yang (杨兆举). Currently, I am a tenure-track research professor of [School of Physics](https://physics.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) at Hangzhou city, China.  
+**Teaching**  
+Mechanics, undergraduate  
+**Experience**  
+2020.09-: School of Physics, Zhejiang University.  
+2018-2020: Postdoc Fellow at Technion – Israel Institute of Technology.  
+2013-2017: PhD. in physics at [Nanyang Technological University](https://www.ntu.edu.sg/spms/about-us/physics) - NTU Singapore.  
+2009-2013: BSc. in physics at Jilin University.  
 
 Research
 ======
-My research focuses on the exploration of quantum phenomena in artificial lattices of photons and atoms. We aim to study the exotic topological, non-Hermitian, and many-body quantum phases of matter based on various quantum platforms.
+My research focuses on the exploration of quantum phenomena in artificial lattices of photons and atoms. We aim to study the exotic topological, non-Hermitian, and many-body quantum phases of matter based on various quantum platforms.  
 As the first or corresponding author, my group has published 
 
 Selected publications
