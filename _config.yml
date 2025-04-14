@@ -209,7 +209,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  math_engine: mathjax
+  math_engine: mathjax       ## Add tex
 
 # These settings control the types of collections used by the template
 collections:
@@ -305,7 +305,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  - jekyll-mathjax
+  # - jekyll-mathjax
   
 # Mimic GitHub Pages with --safe
 whitelist:
