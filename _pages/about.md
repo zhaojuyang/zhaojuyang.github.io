@@ -56,7 +56,7 @@ Selected publications are labeled by :trophy:. A full list of publications can b
 
 1. J. Li<sup>#</sup>, Q. Mo<sup>#</sup>, J.-H. Jiang, **Z. Yang**<sup>†</sup>. Higher-order topological phase in an acoustic fractal lattice. Science Bulletin 67 (2022) 2040-2044. Sep. 27, 2022.
 
-1. :trophy: T. Biesenthal, L. Maczewsky, **Z. Yang**<sup>†</sup>, M. Kremer, M. Segev, A. Szameit<sup>†</sup>, M. Heinrich<sup>†</sup>. Fractal photonic topological insulator. Science 376, 1114-1119 (2022). Reported by Physics World: Photonic fractals open a new area of topological physics; Technology.org-Science & technology news: Fractal Drive – A Lack of Bulk Gives Photons an Edge. ESI highly cited paper.
+1. :trophy: T. Biesenthal, L. Maczewsky, **Z. Yang**<sup>†</sup>, M. Kremer, M. Segev, A. Szameit<sup>†</sup>, M. Heinrich<sup>†</sup>. Fractal photonic topological insulator. Science 376, 1114-1119 (2022). Reported by Physics World: Photonic fractals open a new area of topological physics; Technology.org-Science & technology news: Fractal Drive – A Lack of Bulk Gives Photons an Edge. ESI highly cited paper.  
 *---------------------------------------*Before ZJU**
 <!--*Before ZJU:*-->
 1. :trophy: **Z. Yang**, E. Lustig, Y. Lumer and M. Segev<sup>†</sup>. Photonic Floquet topological insulators in a fractal lattice. Light: Science & Applications 9, 128 (2020). (Editorial Summary, Reported by Phys.org, Science Magazine, PhotonicsViews, Bioengineer, IEEE Spectrum, Eurekalert.)
@@ -99,7 +99,10 @@ Selected publications are labeled by :trophy:. A full list of publications can b
 
 1. X. Shi, X. Lin, F. Gao, H. Xu, **Z. Yang**, and B. Zhang<sup>†</sup>. Caustic graphene plasmons with Kelvin angle. Physical Review B (Rapid Communication) 92 (8), 081404 (2015).
 
-1. :trophy: **Z. Yang**, F. Gao, X. Shi, X. Lin, Z. Gao, Y. Chong and B. Zhang<sup>†</sup>. Topological acoustics. Phys. Rev. Lett. 114, 114301 (2015). Marked as PRL Editor’s suggestion and Featured in physics; Highlighted as Physics Review Focus by Physics; Reported by Physics World, Science News, Popular Mechanics Google citation > 1000. ESI highly cited paper.
+1. :trophy: Topological acoustics. <br>
+**Z. Yang**, F. Gao, X. Shi, X. Lin, Z. Gao, Y. Chong and B. Zhang<sup>†</sup>.<br>
+Phys. Rev. Lett. 114, 114301 (2015).
+<br> Marked as PRL Editor’s suggestion and Featured in physics; Highlighted as Physics Review Focus by Physics; Reported by Physics World, Science News, Popular Mechanics Google citation > 1000. ESI highly cited paper.
 
 
 <!-- 
