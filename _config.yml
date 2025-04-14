@@ -198,7 +198,9 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 mathjax: true         ## Add tex
-
+plugins:
+  - jekyll-mathjax  # 需安装插件
+  
 # Markdown Processing
 kramdown:
   input: GFM
