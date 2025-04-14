@@ -197,7 +197,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-mathjax: true         ## Add tex
+# mathjax: true         ## Add tex
   
 # Markdown Processing
 kramdown:

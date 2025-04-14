@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhaoju Yang (杨兆举). Currently, I am a tenure-track research professor at the [School of Physics](https://physics.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) at Hangzhou city, China.
+My name is Zhaoju Yang (杨兆举). Currently, I am a tenure-track research professor of [School of Physics](https://physics.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) at Hangzhou city, China.
+## Education
 
+2017-Ph.D. in physics at [Nanyang Technological University](https://www.ntu.edu.sg/spms/about-us/physics) - NTU Singapore.
+2013-
 Research Interest
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
