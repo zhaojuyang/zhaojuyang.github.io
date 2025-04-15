@@ -26,8 +26,7 @@ author:
   name             : "Zhaoju Yang"
   pronouns         : # example: "she/her"  
   bio              : #"Quantum simulation and quantum computation" #"Short biography for the left-hand sidebar"
-  
-  location         : "Hangzhou, CN"
+    location         : "Hangzhou, CN"
   employer         : "School of physics, Zhejiang University"
   uri              : # URL
   email            : "zhaojuyang@zju.edu.cn" 
