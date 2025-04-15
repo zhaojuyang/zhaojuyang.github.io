@@ -15,7 +15,7 @@ My name is Zhaoju Yang (杨兆举). Currently, I am a tenure-track professor of 
 2013-2017: PhD. in physics at Nanyang Technological University - NTU Singapore.  
 2009-2013: BSc. in physics at Jilin University. <br>
 
-<img src="/assets/img/AI_Dance_of_photons_and_atoms.png" alt="Dance" style="float: right; width: 200px; margin-left: 15px; border-radius:5%;">  
+<img src="/files/AI_Dance_of_photons_and_atoms.png" alt="Dance" style="float: right; width: 200px; margin-left: 15px; border-radius:5%;">  
 
 **Teaching**  
 Mechanics, undergraduate <br>
