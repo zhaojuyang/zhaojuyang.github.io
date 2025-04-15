@@ -5,9 +5,9 @@ permalink: /My_Publications/
 author_profile: true
 ---
 
-**Publications**  
 A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=9HWoXRUAAAAJ). <br>
 Selected publications are labeled by :trophy:. 
+
 1. Non-Hermitian interacting quantum walks of correlated photons. <br>
 T. Wan & **Z. Yang**<sup>†</sup>. <br>
 Commu. Phys. 8, 131 (2025). 1 Apr. 2025.
@@ -169,7 +169,3 @@ Physical Review B (Rapid Communication) 92 (8), 081404 (2015).
 PRL Editor’s suggestion and Featured in physics. <br>
 Highlighted as Physics Review Focus by [Physics](http://physics.aps.org/articles/v8/26). Reported by [Physics World](http://physicsworld.com/cws/article/news/2015/mar/26/acoustic-topological-insulator-could-hide-submarines), [Science News](https://www.sciencenews.org/article/new-spin-guiding-sound-waves-along-one-way-route), [Popular Mechanics](http://www.popularmechanics.com/military/navy-ships/news/a14800/this-camouflage-coating-hides-submarines-from-sonar/).
 
-<!-- 
-Create content & metadata
-------
--->
