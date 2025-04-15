@@ -164,8 +164,8 @@ Science Bulletin 67 (2022) 2040-2044. Sep. 27, 2022.
 E. Lustig<sup>#</sup>, L. Maczewsky<sup>#</sup>, T. Biesenthalk, J. Beck, M. Heinrich, **Z. Yang**, Y. Plotnik, A. Szameit and M. Segev<sup>†</sup>. <br>
 Nature 609, 931-935 (2022).
 
-1. :trophy: -------------------------**Before ZJU**-------------------------<br>
-Photonic Floquet topological insulators in a fractal lattice. <br>
+1. -------------------------**Before ZJU**-------------------------<br>
+:trophy: Photonic Floquet topological insulators in a fractal lattice. <br>
 **Z. Yang**, E. Lustig, Y. Lumer and M. Segev<sup>†</sup>. <br>
 [Light: Science & Applications 9, 128 (2020)](https://www.nature.com/articles/s41377-020-00354-z). Editorial Summary.<br>
 [Phys.org](https://phys.org/news/2020-07-topological-photonics-fractal-lattices.html), [Science Magazine](https://scienmag.com/topological-photonics-in-fractal-lattices/), PhotonicsViews, Bioengineer, IEEE Spectrum, Eurekalert.
