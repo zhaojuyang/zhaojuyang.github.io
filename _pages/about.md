@@ -7,28 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhaoju Yang (杨兆举). Currently, I am a tenure-track professor of [School of Physics](https://physics.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) at Hangzhou city, China.  
+My name is Zhaoju Yang (杨兆举). Currently, I am a tenure-track professor of [School of Physics](https://physics.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) at Hangzhou city, China. <br>
+
 **Experience**  
 2020.09-: School of Physics, Zhejiang University.  
 2018-2020: Postdoc Fellow at Technion – Israel Institute of Technology.  
 2013-2017: PhD. in physics at Nanyang Technological University - NTU Singapore.  
-2009-2013: BSc. in physics at Jilin University.  
+2009-2013: BSc. in physics at Jilin University. <br>
+
+<img src="/assets/img/AI_Dance_of_photons_and_atoms.png" alt="Dance" style="float: right; width: 200px; margin-left: 15px; border-radius:5%;">  
+
 **Teaching**  
 Mechanics, undergraduate <br>
 
 Research
 ======
-My research focuses on the exploration of quantum phenomena in artificial lattices of photons and atoms. We aim to study the exotic topological, non-Hermitian, and many-body quantum phases of matter based on various quantum platforms.  
+My research focuses on the exploration of quantum phenomena in artificial lattices of photons and atoms. We aim to study the exotic topological, non-Hermitian, and many-body quantum phases of matter based on various quantum platforms.<br>
 As the 1st or corresponding author, my group has published papers in prestigious journals including Science, Nature Photonics, Nature Physics, Physical Review X (PRX), Physical Review Letters (PRL), and Nature Communications, et. al.
-
-![Dance pf photons and atoms from AI](/assets/img/AI_Dance_of_photons_and_atoms.png){:.align-right width="300px"}
-
-<center>
-<img src="assets/img/AI_Dance_of_photons_and_atoms.png"
-     alt="Dance pf photons and atoms from AI"
-     width="300"
-     style="text-align:center; width:65%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
-</center>
 
 **Publications**  
 Selected publications are labeled by :trophy:. A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=9HWoXRUAAAAJ). 
@@ -38,7 +33,7 @@ T. Wan & **Z. Yang**<sup>†</sup>. <br>
 Commu. Phys. 8, 131 (2025). 1 Apr. 2025.
 
 1. Single Ultrafast Pulses Shaped to Spatiotemporal Images. <br>
-B. Wu, H. Zhang, G. Chen, Y. Sun, W. Zhang, S. Zhu, **Z. Yang**, Z. Ruan<sup>†</sup>. <br>
+B. Wu<sup>#</sup>, H. Zhang<sup>#</sup>, G. Chen, Y. Sun, W. Zhang, S. Zhu, **Z. Yang**, Z. Ruan<sup>†</sup>. <br>
 Laser & Photonics Reviews 2402238 (2025). First published: 22 March 2025.
 
 1. :trophy: Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. <br>
