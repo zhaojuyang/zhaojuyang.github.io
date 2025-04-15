@@ -25,7 +25,7 @@ Research
 <center>
 <img src="/files/img/AI_Dance_of_photons_and_atoms.png"
      alt="Dancing of photons and atoms"
-     style="float: right; width: 200px; margin-left: 20px; border-radius:5%;"> 
+     style="float: right; width: 200px; margin-left: 20px; margin-bottom: 20px; border-radius:5%;"> 
 </center>
 
 My research focuses on the exploration of quantum phenomena in artificial lattices of photons and atoms. We aim to study the exotic topological, non-Hermitian, and many-body quantum phases of matter based on various quantum platforms.
@@ -43,7 +43,8 @@ News
 2024 [PRL](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.132.063804): Floquet 1D non-Hermitian skin effect and Floquet skin-topological effect in optical arrays of helical waveguides. Phys. Rev. Lett. 132, 063804 (2024). [News](http://physics.zju.edu.cn/2024/0216/c69694a2877676/page.htm).
 
 2023 [Nature Photonics](https://doi.org/10.1038/s41566-023-01290-1): Quantum time refraction/reflection for matter waves. Nature Photonics 18, 68-73 (2024). Nature Photonics [News & Views](https://www.nature.com/articles/s41566-023-01343-5) ‘Reflection and refraction at a time boundary' for more details. News [Link 1](https://mp.weixin.qq.com/s/yp0b0pHG16GrQuMC64RWfg) & [Link 2](http://physics.zju.edu.cn/2023/0919/c69694a2803717/page.htm). 
-<div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 10px;">
+
+<div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 20px;">
   <img src="/files/img/2023TimeR.png" alt="RimeR1" style="width: 18%"/>
   <img src="/files/img/2023TimeR2.png" alt="RimeR2" style="width: 35%"/>
 </div> 
@@ -55,7 +56,7 @@ News
 202304 <[物理](https://wuli.iphy.ac.cn/cn/article/doi/10.7693/wl20230402)>: 2023年第四期发表'从大自然的分形之美中寻找非凡物态'的科普评述文章. Physics 2023, 52(4): Looking for the nontrivial states of matter from fractals.
 
 202205 [Science](https://www.science.org/doi/10.1126/science.abm2842): Our work Fractal photonic topological insulators has been published in Science. Please see the news [link](http://physics.zju.edu.cn/2022/0524/c69694a2553807/page.htm).
-<div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 10px;">
+<div style="display: flex; gap: 10px; margin-top: 0px; margin-bottom: 20px;">
   <img src="/files/img/2022Science_fractal_Fig News 1.jpg" alt="fractal1" style="width: 20%;"/>
   <img src="/files/img/2022Science_fractal_Fig News 2.jpg" alt="fractal2" style="width: 40%;"/>
 </div>
