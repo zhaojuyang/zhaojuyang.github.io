@@ -7,7 +7,7 @@ author_profile: true
 
 **[2025] 成员04**
 <div style="display: flex; gap: 10px;margin-bottom: 10px;">
-  <img src="/files/img_group/2025课题成员.jpg" alt="2024" style="width: 18%"/>
+  <img src="/files/img_group/2025课题成员.jpg" alt="2024" style="width: 20%"/>
 </div> 
 
 **[2024] SG02；成都04；恩施07；重庆08；海口09；教工羽球11**
