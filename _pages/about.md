@@ -46,7 +46,7 @@ News
 <div style="display: flex; gap: 10px;">
   <img src="/files/img/2023TimeR.png" alt="RimeR1" style="width: 18%"/>
   <img src="/files/img/2023TimeR2.png" alt="RimeR2" style="width: 30%"/>
-</div> <br>
+</div> 
 
 2023 [Nat. Commu.](https://www.nature.com/articles/s41467-023-41776-8): Observing the acoustic spatiotemporal vortices. Nature Communications 14, 6238 (2023). [News](http://physics.zju.edu.cn/2023/1012/c69694a2811695/page.htm).
 
@@ -58,7 +58,7 @@ News
 <div style="display: flex; gap: 10px;">
   <img src="/files/img/2022Science_fractal_Fig News 1.jpg" alt="fractal1" style="width: 20%;"/>
   <img src="/files/img/2022Science_fractal_Fig News 2.jpg" alt="fractal2" style="width: 40%;"/>
-</div> <br>
+</div>
 
 202009 Excited by many great minds, I am now in an exponential decay into a normalized ground state.
 
