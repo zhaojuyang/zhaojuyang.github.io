@@ -15,13 +15,15 @@ My name is Zhaoju Yang (杨兆举). Currently, I am a tenure-track professor of 
 2013-2017: PhD. in physics at Nanyang Technological University - NTU Singapore.  
 2009-2013: BSc. in physics at Jilin University. <br>
 
+<img src="/files/img/AI_Dance_of_photons_and_atoms.png" alt="Dance" style="float: right; width: 200px; margin-left: 20px; border-radius:5%;">  <br>
+
 **Teaching**  
 Mechanics, undergraduate <br>
 
-<img src="/files/img/AI_Dance_of_photons_and_atoms.png" alt="Dance" style="float: right; width: 200px; margin-left: 20px; border-radius:5%;">  
 Research
 ======
 My research focuses on the exploration of quantum phenomena in artificial lattices of photons and atoms. We aim to study the exotic topological, non-Hermitian, and many-body quantum phases of matter based on various quantum platforms.<br>
+
 As the 1st or corresponding author, my group has published papers in prestigious journals including Science, Nature Photonics, Nature Physics, Physical Review X (PRX), Physical Review Letters (PRL), and Nature Communications, et. al. One of our papers has been cited over 1,000 times, and multiple articles have been recognized as ESI Highly Cited Papers. 
 
 News
