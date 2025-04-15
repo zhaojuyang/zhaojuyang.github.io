@@ -86,13 +86,9 @@ PRL Editor’s suggestion and Featured in physics. <br>
 Highlighted as Physics Review Focus by [Physics](http://physics.aps.org/articles/v8/26). Reported by [Physics World](http://physicsworld.com/cws/article/news/2015/mar/26/acoustic-topological-insulator-could-hide-submarines), [Science News](https://www.sciencenews.org/article/new-spin-guiding-sound-waves-along-one-way-route), [Popular Mechanics](http://www.popularmechanics.com/military/navy-ships/news/a14800/this-camouflage-coating-hides-submarines-from-sonar/).
 
 
-
-
-
-
 **Publications**  
-Selected publications are labeled by :trophy:. A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=9HWoXRUAAAAJ). 
-
+A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=9HWoXRUAAAAJ). <br>
+Selected publications are labeled by :trophy:. 
 1. Non-Hermitian interacting quantum walks of correlated photons. <br>
 T. Wan & **Z. Yang**<sup>†</sup>. <br>
 Commu. Phys. 8, 131 (2025). 1 Apr. 2025.
@@ -164,7 +160,7 @@ Science Bulletin 67 (2022) 2040-2044. Sep. 27, 2022.
 E. Lustig<sup>#</sup>, L. Maczewsky<sup>#</sup>, T. Biesenthalk, J. Beck, M. Heinrich, **Z. Yang**, Y. Plotnik, A. Szameit and M. Segev<sup>†</sup>. <br>
 Nature 609, 931-935 (2022).
 
-1. -------------------------**Before ZJU**-------------------------<br>
+1. -------------------------*Before ZJU*-------------------------<br>
 :trophy: Photonic Floquet topological insulators in a fractal lattice. <br>
 **Z. Yang**, E. Lustig, Y. Lumer and M. Segev<sup>†</sup>. <br>
 [Light: Science & Applications 9, 128 (2020)](https://www.nature.com/articles/s41377-020-00354-z). Editorial Summary.<br>
