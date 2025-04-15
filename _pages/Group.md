@@ -5,7 +5,7 @@ permalink: /Group/
 author_profile: true
 ---
 
-**[2025] **
+**[2025]**
 
 **[2024] SG02；成都04；恩施07；重庆08；海口09；教工羽球11**
 <div style="display: flex; gap: 10px;">
