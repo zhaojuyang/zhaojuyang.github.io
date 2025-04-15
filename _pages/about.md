@@ -18,8 +18,6 @@ My name is Zhaoju Yang (杨兆举). Currently, I am a tenure-track professor of 
 **Teaching**  
 Mechanics, undergraduate
 
-
-
 Research
 ======
 <center>
