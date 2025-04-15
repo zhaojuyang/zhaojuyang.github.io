@@ -21,6 +21,15 @@ Research
 My research focuses on the exploration of quantum phenomena in artificial lattices of photons and atoms. We aim to study the exotic topological, non-Hermitian, and many-body quantum phases of matter based on various quantum platforms.  
 As the 1st or corresponding author, my group has published papers in prestigious journals including Science, Nature Photonics, Nature Physics, Physical Review X (PRX), Physical Review Letters (PRL), and Nature Communications, et. al.
 
+![Dance pf photons and atoms from AI](/assets/img/AI_Dance_of_photons_and_atoms.png){:.align-right width="300px"}
+
+<center>
+<img src="assets/img/AI_Dance_of_photons_and_atoms.png"
+     alt="Dance pf photons and atoms from AI"
+     width="300"
+     style="text-align:center; width:65%; border-radius:15%; padding-top:15px; padding-bottom:1px" />
+</center>
+
 **Publications**  
 Selected publications are labeled by :trophy:. A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=9HWoXRUAAAAJ). 
 
