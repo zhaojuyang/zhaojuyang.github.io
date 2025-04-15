@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: "Introduction"
+layout: archive
+title: "Publications"
+permalink: /My_Publications/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 **Publications**  
