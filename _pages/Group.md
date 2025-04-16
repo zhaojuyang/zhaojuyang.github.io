@@ -18,7 +18,7 @@ author_profile: true
   <img src="/files/img_group/2024学院羽球.jpg" alt="2023" style="width: 15%"/>
 </div> 
 
-**[2023] 光学学会春季赛04；[2022] Group05**
+**[2023] 光学学会春季赛04；成员天目山07；[2022] Group05**
 <div style="display: flex; gap: 10px;">
   <img src="/files/img_group/2023羽球.jpg" alt="2023" style="width: 16%"/>
   <img src="/files/img_group/20230706 天目山景区.jpg" alt="2023" style="width: 26%"/>
