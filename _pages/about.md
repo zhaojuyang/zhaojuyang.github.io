@@ -23,7 +23,7 @@ Research
 <center>
 <img src="/files/img/AI_Dance_of_photons_and_atoms.png"
      alt="Dancing of photons and atoms"
-     style="float: right; width: 200px; margin-left: 20px; margin-bottom: 20px; border-radius:5%;"> 
+     style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px; border-radius:5%;"> 
 </center>
 
 My research focuses on the exploration of quantum phenomena in artificial lattices of photons and atoms. We aim to study the exotic topological, non-Hermitian, and many-body quantum phases of matter based on various quantum platforms.
@@ -32,11 +32,11 @@ As the 1st or corresponding author, my group has published papers in prestigious
 
 News
 ======
-<img src="/files/img/2024nonabelian.png" alt="Dance" style="float: right; width: 120px; margin-left: 50px;">
+<img src="/files/img/2024nonabelian.png" alt="Dance" style="float: right; width: 150px; margin-left: 20px; margin-bottom: 10px;">
 
 2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
 
-<img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 120px; margin-left: 50px; border-radius:5%;">
+<img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 130px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;">
 
 2024 [PRL](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.132.063804): Floquet 1D non-Hermitian skin effect and Floquet skin-topological effect in optical arrays of helical waveguides. Phys. Rev. Lett. 132, 063804 (2024). [News](http://physics.zju.edu.cn/2024/0216/c69694a2877676/page.htm).
 
@@ -49,7 +49,7 @@ News
 
 2023 [Nat. Commu.](https://www.nature.com/articles/s41467-023-41776-8): Observing the acoustic spatiotemporal vortices. Nature Communications 14, 6238 (2023). [News](http://physics.zju.edu.cn/2023/1012/c69694a2811695/page.htm).
 
-<img src="/files/img/2023物理 cover2.JPG" alt="Dance" style="float: right; width: 120px; margin-left: 30px; border-radius:5%; padding-bottom: 10px;">
+<img src="/files/img/2023物理 cover2.JPG" alt="Dance" style="float: right; width: 120px; margin-left: 20px; margin-top: 10px; border-radius:5%; padding-bottom: 10px;">
 
 202304 <[物理](https://wuli.iphy.ac.cn/cn/article/doi/10.7693/wl20230402)>: 2023年第四期发表'从大自然的分形之美中寻找非凡物态'的科普评述文章. Physics 2023, 52(4): Looking for the nontrivial states of matter from fractals.
 
