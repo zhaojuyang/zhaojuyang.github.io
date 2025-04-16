@@ -20,9 +20,9 @@ author_profile: true
 
 **[2023] 光学学会春季赛04；成员天目山07；[2022] Group05**
 <div style="display: flex; gap: 10px;">
-  <img src="/files/img_group/2023羽球.jpg" alt="2023" style="width: 16%"/>
-  <img src="/files/img_group/20230706 天目山景区.jpg" alt="2023" style="width: 26%"/>
-  <img src="/files/img_group/2022成员照片.png" alt="2022" style="width: 26%"/>
+  <img src="/files/img_group/2023羽球.jpg" alt="2023" style="width: 12%"/>
+  <img src="/files/img_group/20230706 天目山景区.jpg" alt="2023" style="width: 22%"/>
+  <img src="/files/img_group/2022成员照片.png" alt="2022" style="width: 22%"/>
 </div>
 
 **Graduate students**
