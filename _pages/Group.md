@@ -25,13 +25,13 @@ author_profile: true
   <img src="/files/img_group/2022成员照片.png" alt="2022" style="width: 22%"/>
 </div>
 
-**Graduate students**
+**Graduate students**  
 2025: H. Yuan, X. Ren  
 2024: Y. Zhu, C. Zhan  
 2023: Z. Wu, S. Zhang  
 2022: F. Wang  
 2021: X. Hou, T. Wan  
 
-**Alumni**
-2020: Y. Sun, J. Li
+**Alumni**  
+2020: Y. Sun, J. Li  
 2019: Q. Mo [Hongkong Uni. PhD], Z. Wu [ZJU PhD]
