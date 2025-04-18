@@ -34,4 +34,4 @@ author_profile: true
 
 **Alumni**  
 2020: Y. Sun, J. Li  
-2019: Q. Mo [Hongkong Uni. PhD], Z. Wu [ZJU PhD]
+2019: Q. Mo [HKU PhD], Z. Wu [ZJU PhD]
