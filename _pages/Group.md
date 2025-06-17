@@ -26,7 +26,7 @@ author_profile: true
 </div>
 
 **Graduate students**  
-2025: H. Yuan, X. Ren  
+2025: H. Yuan  
 2024: Y. Zhu, C. Zhan  
 2023: Z. Wu, S. Zhang  
 2022: F. Wang  
