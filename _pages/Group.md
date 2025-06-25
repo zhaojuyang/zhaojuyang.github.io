@@ -5,10 +5,10 @@ permalink: /Group/
 author_profile: true
 ---
 
-**[2025] Group04；GrouP06**
+**[2025] Group04；Hanzhou Kaiyuan06**
 <div style="display: flex; gap: 10px;margin-bottom: 10px;">
-  <img src="/files/img_group/2025课题成员.jpg" alt="2024" style="width: 20%"/>
-  <img src="/files/img_group/202506杭州天域开元.jpg" alt="2024" style="width: 20%"/>
+  <img src="/files/img_group/2025课题成员.jpg" alt="2025" style="width: 20%"/>
+  <img src="/files/img_group/202506杭州天域开元.jpg" alt="2025" style="width: 20%"/>
 </div> 
 
 **[2024] SG02；Chengdu04；Enshi07；Chongqing08；Haikou09；ZJU badminton11**
@@ -16,7 +16,7 @@ author_profile: true
   <img src="/files/img_group/2024singapore.jpg" alt="2024" style="width: 20%"/>
   <img src="/files/img_group/2024重庆.jpg" alt="2024" style="width: 20%"/>
   <img src="/files/img_group/2024成都.jpg" alt="2024" style="width: 15%"/>
-  <img src="/files/img_group/2024学院羽球.jpg" alt="2023" style="width: 15%"/>
+  <img src="/files/img_group/2024学院羽球.jpg" alt="2024" style="width: 15%"/>
 </div> 
 
 **[2023] COS04；Tianmushan07；[2022] Group05**
@@ -34,5 +34,5 @@ author_profile: true
 2021: X. Hou, T. Wan  
 
 **Alumni**  
-2020: Y. Sun, J. Li  
-2019: Q. Mo [HKU PhD], Z. Wu [ZJU PhD]
+2020: Y. Sun [Postdoc], J. Li [Co.]  
+2019: Q. Mo [HKU PhD], Z. Wu [ZJU PhD]  
