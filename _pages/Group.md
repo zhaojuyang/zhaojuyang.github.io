@@ -8,7 +8,7 @@ author_profile: true
 **[2025] Group06**
 <div style="display: flex; gap: 10px;margin-bottom: 10px;">
   <img src="/files/img_group/202506杭州天域开元.jpg" alt="2025" style="width: 20%"/>
-  <img src="/files/img_group/202506杭州天域开元2.jpg" alt="2025" style="width: 20%"/>
+  
 </div> 
 
 **[2024] SG02；成都04；恩施07；重庆08；海口09；ZJU羽球11**
@@ -26,13 +26,13 @@ author_profile: true
   <img src="/files/img_group/2022成员照片.png" alt="2022" style="width: 22%"/>
 </div>
 
-**Graduate students**  
+<!-- **Graduate students**  
 2025: H. Yuan  
-2024: Y. Zhu, C. Zhan  
+2024: Y. Zhu
 2023: Z. Wu, S. Zhang  
 2022: F. Wang  
 2021: X. Hou, T. Wan  
 
 **Alumni**  
 2020: Y. Sun [Postdoc], J. Li [Co.]  
-2019: Q. Mo [HKU PhD], Z. Wu [ZJU PhD]  
+2019: Q. Mo [HKU PhD], Z. Wu [ZJU PhD]   -->
