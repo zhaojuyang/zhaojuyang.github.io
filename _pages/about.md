@@ -26,9 +26,9 @@ Research
      style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px; border-radius:5%;"> 
 </center>
 
-My research focuses on the exploration of quantum phenomena in artificial lattices of photons and atoms. We aim to study the exotic topological, non-Hermitian, and many-body quantum phases of matter based on various quantum platforms.
+My research focuses on the exploration of quantum phenomena in artificial lattices of photons and atoms. We aim to study the exotic topological, non-Hermitian, and many-body quantum phases of matter based on quantum platforms such as photonics, atoms and superconducting qubits.
 
-As the 1st or corresponding author, my group has published papers in prestigious journals including Science, Nature Photonics, Nature Physics, Physical Review X (PRX), Physical Review Letters (PRL), and Nature Communications, et. al. One of our papers has been cited over 1,000 times, and multiple articles have been recognized as ESI Highly Cited Papers. 
+As the 1st or corresponding author, my group has published papers in Science, Nature Photonics, Nature Physics, Physical Review X (PRX), Physical Review Letters (PRL), and Nature Communications, et. al. One of our papers has been cited over 1,000 times, and multiple articles have been recognized as ESI Highly Cited Papers. 
 
 News
 ======
