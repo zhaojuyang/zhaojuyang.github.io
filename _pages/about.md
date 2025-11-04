@@ -63,31 +63,36 @@ News
 
 Selected Publications
 ======
+
+1. Quantum boomerang effect of light. <br>
+X Hou<sup>#</sup>, Z Wu<sup>#</sup>, F Wang, S Zhu, B Yan, and Z Yang**Z. Yang**<sup>†</sup>. <br>
+[Nature Communications (2025)](https://arxiv.org/abs/2505.10180). In press.
+
 1. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. <br>
-Q. Liang<sup>#</sup>, Z. Dong<sup>#</sup>,J.-S. Pan<sup>#</sup>, H. Wang, H. Li, **Z. Yang**<sup>†</sup>, W. Yi<sup>†</sup> & B. Yan<sup>†</sup>. <br>
+Q. Liang<sup>#</sup>, Z. Dong<sup>#</sup>,J.-S. Pan<sup>#</sup>, H. Wang, H. Li, **Z. Yang**<sup>†</sup>, W. Yi<sup>†</sup> and B. Yan<sup>†</sup>. <br>
 [Nature Physics 20, 1738-1743 (2024)](https://www.nature.com/articles/s41567-024-02644-4). [Research Briefing](https://www.nature.com/articles/s41567-024-02645-3). 20 Sep. 2024.
 
 1. Photonic Floquet skin-topological effect. <br>
- Y. Sun<sup>#</sup>, X. Hou<sup>#</sup>, T. Wan, F. Wang, S. Zhu, Z. Ruan<sup>†</sup>, **Z. Yang**<sup>†</sup>. <br>
+ Y. Sun<sup>#</sup>, X. Hou<sup>#</sup>, T. Wan, F. Wang, S. Zhu, Z. Ruan<sup>†</sup>, and **Z. Yang**<sup>†</sup>. <br>
 [Phys. Rev. Lett. 132, 063804 (2024)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.063804). Feb. 9, 2024. [arXiv:2306.03705 (2023).] ESI highly cited paper.
 
 1. Quantum time reflection and refraction of ultracold atoms. <br>
-Z. Dong<sup>#</sup>, H. Li<sup>#</sup>, T. Wan<sup>#</sup>, Q. Liang, **Z. Yang**<sup>†</sup>, B. Yan<sup>†</sup>. <br>
+Z. Dong<sup>#</sup>, H. Li<sup>#</sup>, T. Wan<sup>#</sup>, Q. Liang, **Z. Yang**<sup>†</sup>, and B. Yan<sup>†</sup>. <br>
 [Nature Photonics 18, 68-73 (2024)](https://www.nature.com/articles/s41566-023-01290-1). Sep. 18, 2023. <br>
 [News & Views](https://www.nature.com/articles/s41566-023-01343-5): Reflection and refraction at a time boundary. <br>
 ESI highly cited paper. [[arXiv,](https://arxiv.org/abs/2303.02963) 6 Mar. 2023]
 
 1. Topologically crafted spatiotemporal vortices in acoustics. <br>
-H. Zhang<sup>#</sup>, Y. Sun<sup>#</sup>, J. Huang<sup>#</sup>, B. Wu, **Z. Yang**<sup>†</sup>, K. Y. Bliokh, Z. Ruan<sup>†</sup>. <br>
+H. Zhang<sup>#</sup>, Y. Sun<sup>#</sup>, J. Huang<sup>#</sup>, B. Wu, **Z. Yang**<sup>†</sup>, K. Y. Bliokh, and Z. Ruan<sup>†</sup>. <br>
 [Nature Communications 14, 6238 (2023)](https://www.nature.com/articles/s41467-023-41776-8). Oct. 6, 2023. [arXiv:2303.10549 (2023). Mar. 19]
 
 1. Fractal photonic topological insulator. <br>
-T. Biesenthal, L. Maczewsky, **Z. Yang**<sup>†</sup>, M. Kremer, M. Segev, A. Szameit<sup>†</sup>, M. Heinrich<sup>†</sup>. <br>
+T. Biesenthal, L. Maczewsky, **Z. Yang**<sup>†</sup>, M. Kremer, M. Segev, A. Szameit<sup>†</sup>, and M. Heinrich<sup>†</sup>. <br>
 [Science 376, 1114-1119 (2022)](https://www.science.org/doi/10.1126/science.abm2842). Editorial Summary. ESI highly cited paper. <br>
 [Physics World](https://physicsworld.com/a/photonic-fractals-open-a-new-area-of-topological-physics/): Photonic fractals open a new area of topological physics. Technology.org.
 
 1. Photonic Floquet topological insulators in a fractal lattice. <br>
-**Z. Yang**, E. Lustig, Y. Lumer and M. Segev<sup>†</sup>. <br>
+**Z. Yang**, E. Lustig, Y. Lumer, and M. Segev<sup>†</sup>. <br>
 [Light: Science & Applications 9, 128 (2020)](https://www.nature.com/articles/s41377-020-00354-z). Editorial Summary.<br>
 [Phys.org](https://phys.org/news/2020-07-topological-photonics-fractal-lattices.html), [Science Magazine](https://scienmag.com/topological-photonics-in-fractal-lattices/), PhotonicsViews, Bioengineer, IEEE Spectrum, Eurekalert.
 
@@ -96,7 +101,7 @@ T. Biesenthal, L. Maczewsky, **Z. Yang**<sup>†</sup>, M. Kremer, M. Segev, A. 
 [Phys. Rev. X 10, 011059 (2020)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.011059). [Popular Summary](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.011059), [CLEO 2019](https://www.osapublishing.org/abstract.cfm?uri=CLEO_QELS-2019-FW3D.2).
 
 1. Topologically-protected refraction of robust kink states in valley photonic crystals. <br>
-F. Gao<sup>#</sup>, H. Xue<sup>#</sup>, **Z. Yang**<sup>†</sup>, K. Lai, Y. Yu, X. Lin, Y. Chong, G. Shvets<sup>†</sup>, B. Zhang<sup>†</sup>. <br>
+F. Gao<sup>#</sup>, H. Xue<sup>#</sup>, **Z. Yang**<sup>†</sup>, K. Lai, Y. Yu, X. Lin, Y. Chong, G. Shvets<sup>†</sup>, and B. Zhang<sup>†</sup>. <br>
 [Nature Physics 14, 140-144 (2018)](https://www.nature.com/articles/nphys4304). ESI highly cited paper. <br>
 [News and views](https://www.nature.com/articles/nphys4331): Topological valleytronics: Brought to light.
 
@@ -110,7 +115,7 @@ F. Gao<sup>#</sup>, H. Xue<sup>#</sup>, **Z. Yang**<sup>†</sup>, K. Lai, Y. Yu
 Reported by AAPPS Bulletin, Research Highlights, Physics Focus.
 
 1. Topological acoustics. <br>
-**Z. Yang**, F. Gao, X. Shi, X. Lin, Z. Gao, Y. Chong and B. Zhang<sup>†</sup>.<br>
+**Z. Yang**, F. Gao, X. Shi, X. Lin, Z. Gao, Y. Chong, and B. Zhang<sup>†</sup>.<br>
 [Phys. Rev. Lett. 114, 114301 (2015)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.114301){:target="_blank"}. Google citation > 1000. ESI highly cited paper. <br>
 PRL Editor’s suggestion and Featured in physics. <br>
 Highlighted as Physics Review Focus by [Physics](http://physics.aps.org/articles/v8/26). Reported by [Physics World](http://physicsworld.com/cws/article/news/2015/mar/26/acoustic-topological-insulator-could-hide-submarines), [Science News](https://www.sciencenews.org/article/new-spin-guiding-sound-waves-along-one-way-route), [Popular Mechanics](http://www.popularmechanics.com/military/navy-ships/news/a14800/this-camouflage-coating-hides-submarines-from-sonar/).

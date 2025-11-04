@@ -12,11 +12,11 @@ author_profile: true
 </div> 
 
 **[2024] SG02；成都04；恩施07；重庆08；海口09；ZJU羽球11**
-<div style="display: flex; gap: 10px;margin-bottom: 10px;">
-  <img src="/files/img_group/2024singapore.jpg" alt="2024" style="width: 20%"/>
-  <img src="/files/img_group/2024重庆.jpg" alt="2024" style="width: 20%"/>
-  <img src="/files/img_group/2024成都.jpg" alt="2024" style="width: 15%"/>
-  <img src="/files/img_group/2024学院羽球.jpg" alt="2024" style="width: 15%"/>
+<div style="display: flex; gap: 10px; margin-bottom: 10px;">
+  <img src="/files/img_group/2024singapore.jpg" alt="2024" style="width: 15%"/>
+  <img src="/files/img_group/2024重庆.jpg" alt="2024" style="width: 15%"/>
+  <img src="/files/img_group/2024成都.jpg" alt="2024" style="width: 10%"/>
+  <img src="/files/img_group/2024学院羽球.jpg" alt="2024" style="width: 10%"/>
 </div> 
 
 **[2023] 光学COS04；天目山07；[2022] Group05**
