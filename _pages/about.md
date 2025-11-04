@@ -65,7 +65,7 @@ Selected Publications
 ======
 
 1. Quantum boomerang effect of light. <br>
-X Hou<sup>#</sup>, Z Wu<sup>#</sup>, F Wang, S Zhu, B Yan, and Z Yang**Z. Yang**<sup>†</sup>. <br>
+X Hou<sup>#</sup>, Z Wu<sup>#</sup>, F Wang, S Zhu, B Yan, and **Z. Yang**<sup>†</sup>. <br>
 [Nature Communications (2025)](https://arxiv.org/abs/2505.10180). In press.
 
 1. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. <br>
