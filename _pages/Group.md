@@ -6,18 +6,19 @@ author_profile: true
 ---
 
 **[2025] Group06**
-<div style="display: flex; gap: 10px;margin-bottom: 10px;">
+<div style="display: flex; gap: 10px; margin-bottom: 10px;">
   <img src="/files/img_group/202506杭州天域开元.jpg" alt="2025" style="width: 20%"/>
   
 </div> 
 
 **[2024] SG02；成都04；恩施07；重庆08；海口09；ZJU羽球11**
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <img src="/files/img_group/2024singapore.jpg" alt="2024" style="width: 15%"/>
-  <img src="/files/img_group/2024重庆.jpg" alt="2024" style="width: 15%"/>
-  <img src="/files/img_group/2024成都.jpg" alt="2024" style="width: 10%"/>
-  <img src="/files/img_group/2024学院羽球.jpg" alt="2024" style="width: 10%"/>
+  <img src="/files/img_group/2024singapore.jpg" alt="2024" style="height: 120px; object-fit: contain; width: 15%"/>
+  <img src="/files/img_group/2024重庆.jpg" alt="2024" style="height: 120px; object-fit: contain; width: 15%"/>
+  <img src="/files/img_group/2024成都.jpg" alt="2024" style="height: 120px; object-fit: contain; width: 10%"/>
+  <img src="/files/img_group/2024学院羽球.jpg" alt="2024" style="height: 120px; object-fit: contain; width: 10%"/>   
 </div> 
+<!-- object-fit: contain/cover -->
 
 **[2023] 光学COS04；天目山07；[2022] Group05**
 <div style="display: flex; gap: 10px;">
