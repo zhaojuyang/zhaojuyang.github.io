@@ -49,7 +49,7 @@ News
   <img src="/files/img/2023TimeR2.png" alt="RimeR2" style="width: 35%"/>
 </div> 
 
-2023 [Nat. Commu.](https://www.nature.com/articles/s41467-023-41776-8): Observing the acoustic spatiotemporal vortices. Nature Communications 14, 6238 (2023). [News](http://physics.zju.edu.cn/2023/1012/c69694a2811695/page.htm).
+2023 [Nature Commu.](https://www.nature.com/articles/s41467-023-41776-8): Observing the acoustic spatiotemporal vortices. Nature Communications 14, 6238 (2023). [News](http://physics.zju.edu.cn/2023/1012/c69694a2811695/page.htm).
 
 <img src="/files/img/2023物理 cover2.JPG" alt="Dance" style="float: right; width: 120px; margin-left: 20px; margin-top: 10px; border-radius:5%; padding-bottom: 10px;">
 
@@ -65,7 +65,7 @@ News
 
 Selected Publications
 ======
-1. Parity-Time-Symmetric Bimorphic Topological Insulators. 
+1. Parity-Time-Symmetric Bimorphic Topological Insulators. <br>
 Tuo. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Yang**<sup>*</sup>. <br>
 [Advanced Materials 2026].
 
