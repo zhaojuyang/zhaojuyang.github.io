@@ -34,6 +34,8 @@ News
 ======
 <img src="/files/img/2024nonabelian.png" alt="Dance" style="float: right; width: 150px; margin-left: 20px; margin-bottom: 10px;">
 
+2026 [Nature Commu.](https://www.nature.com/articles/s41467-026-68293-8): Quantum boomerang effect of light.
+
 2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
 
 <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 130px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;">
@@ -63,18 +65,21 @@ News
 
 Selected Publications
 ======
+1. Parity-Time-Symmetric Bimorphic Topological Insulators. 
+Tuo. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Yang**<sup>*</sup>. <br>
+[Advanced Materials 2026].
 
 1. Quantum boomerang effect of light. <br>
-X Hou<sup>#</sup>, Z Wu<sup>#</sup>, F Wang, S Zhu, B Yan, and **Z. Yang**<sup>†</sup>. <br>
-[Nature Communications (2025)](https://arxiv.org/abs/2505.10180). In press.
+X. Hou<sup>#</sup>, Z. Wu<sup>#</sup>, F. Wang, S. Zhu, B. Yan, and **Z. Yang**<sup>†</sup>. <br>
+[Nature Communications (2026)](https://www.nature.com/articles/s41467-026-68293-8). 17 Jan. 2026. [arXiv](https://arxiv.org/abs/2505.10180). 15 May 2025.
 
 1. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. <br>
-Q. Liang<sup>#</sup>, Z. Dong<sup>#</sup>,J.-S. Pan<sup>#</sup>, H. Wang, H. Li, **Z. Yang**<sup>†</sup>, W. Yi<sup>†</sup> and B. Yan<sup>†</sup>. <br>
+Q. Liang<sup>#</sup>, Z. Dong<sup>#</sup>,J. Pan<sup>#</sup>, H. Wang, H. Li, **Z. Yang**<sup>†</sup>, W. Yi<sup>†</sup> and B. Yan<sup>†</sup>. <br>
 [Nature Physics 20, 1738-1743 (2024)](https://www.nature.com/articles/s41567-024-02644-4). [Research Briefing](https://www.nature.com/articles/s41567-024-02645-3). 20 Sep. 2024.
 
 1. Photonic Floquet skin-topological effect. <br>
  Y. Sun<sup>#</sup>, X. Hou<sup>#</sup>, T. Wan, F. Wang, S. Zhu, Z. Ruan<sup>†</sup>, and **Z. Yang**<sup>†</sup>. <br>
-[Phys. Rev. Lett. 132, 063804 (2024)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.063804). Feb. 9, 2024. [arXiv:2306.03705 (2023).] ESI highly cited paper.
+[Phys. Rev. Lett. 132, 063804 (2024)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.063804). 9 Feb., 2024. [arXiv:2306.03705 (2023).] ESI highly cited paper.
 
 1. Quantum time reflection and refraction of ultracold atoms. <br>
 Z. Dong<sup>#</sup>, H. Li<sup>#</sup>, T. Wan<sup>#</sup>, Q. Liang, **Z. Yang**<sup>†</sup>, and B. Yan<sup>†</sup>. <br>
