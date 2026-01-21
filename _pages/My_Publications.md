@@ -8,13 +8,22 @@ author_profile: true
 A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=9HWoXRUAAAAJ). <br>
 Selected publications are labeled by :trophy:. 
 
+
+1. :trophy: Quantum boomerang effect of light. <br>
+X. Hou<sup>#</sup>, Z. Wu<sup>#</sup>, F. Wang, S. Zhu, B. Yan, and **Z. Yang**<sup>*</sup>. <br>
+[Nature Communications (2026)](https://www.nature.com/articles/s41467-026-68293-8). 17 Jan. 2026. [arXiv](https://arxiv.org/abs/2505.10180). 15 May 2025.
+
+1. Parity-Time-Symmetric Bimorphic Topological Insulators. <br>
+Tuo. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Yang**<sup>*</sup>. <br>
+[Advanced Materials (2026)](https://doi.org/10.1002/adma.202519324). 20 Jan. 2026.
+
 1. Non-Hermitian interacting quantum walks of correlated photons. <br>
 T. Wan & **Z. Yang**<sup>†</sup>. <br>
-Commu. Phys. 8, 131 (2025). 1 Apr. 2025.
+[Commu. Phys. 8, 131 (2025)](https://doi.org/10.1038/s42005-025-02038-9). 1 Apr. 2025.
 
 1. Single Ultrafast Pulses Shaped to Spatiotemporal Images. <br>
 B. Wu<sup>#</sup>, H. Zhang<sup>#</sup>, G. Chen, Y. Sun, W. Zhang, S. Zhu, **Z. Yang**, Z. Ruan<sup>†</sup>. <br>
-Laser & Photonics Reviews 2402238 (2025). First published: 22 March 2025.
+[Laser & Photonics Reviews 2402238 (2025)]( https://doi.org/10.1002/lpor.202402238). First published: 22 March 2025.
 
 1. :trophy: Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. <br>
 Q. Liang<sup>#</sup>, Z. Dong<sup>#</sup>,J.-S. Pan<sup>#</sup>, H. Wang, H. Li, **Z. Yang**<sup>†</sup>, W. Yi<sup>†</sup> & B. Yan<sup>†</sup>. <br>
@@ -26,7 +35,7 @@ Q. Liang<sup>#</sup>, Z. Dong<sup>#</sup>,J.-S. Pan<sup>#</sup>, H. Wang, H. Li,
 
 1. Quantum topological photonics with special focus on waveguide systems. <br>
 J. Gao<sup>†</sup>, Z. Xu, **Z. Yang**<sup>†</sup>, V. Zwiller & A. W. Elshaari<sup>†</sup>. <br>
-npj Nanophoton. 1, 34 (2024). Aug. 30, 2024. Review article.
+[npj Nanophoton. 1, 34 (2024)](https://doi.org/10.1038/s44310-024-00034-5). Aug. 30, 2024. Review article.
 
 1. Imaginary disorder-induced many-body localization and dynamical jumping. <br>
 J. Li, L. Ying, and **Z. Yang**<sup>†</sup>. <br>
@@ -44,7 +53,7 @@ ESI highly cited paper. [[arXiv,](https://arxiv.org/abs/2303.02963) 6 Mar. 2023]
 
 1. Observation of the geometry-dependent skin effect and dynamical degeneracy splitting. <br>
 T. Wan, K. Zhang, J. Li, Z.-S. Yang<sup>†</sup>, **Z. Yang**<sup>†</sup>. <br>
-Science Bulletin 68, 2330-2335 (2023). Oct. 10, 2023. [arXiv:2303.11109 (2023).] 
+[Science Bulletin 68, 2330-2335 (2023)](https://doi.org/10.1016/j.scib.2023.09.013). Oct. 10, 2023. [arXiv:2303.11109 (2023).] 
 
 1. :trophy: Topologically crafted spatiotemporal vortices in acoustics. <br>
 H. Zhang<sup>#</sup>, Y. Sun<sup>#</sup>, J. Huang<sup>#</sup>, B. Wu, **Z. Yang**<sup>†</sup>, K. Y. Bliokh, Z. Ruan<sup>†</sup>. <br>

@@ -34,7 +34,13 @@ News
 ======
 <img src="/files/img/2024nonabelian.png" alt="Dance" style="float: right; width: 150px; margin-left: 20px; margin-bottom: 10px;">
 
-2026 [Nature Commu.](https://www.nature.com/articles/s41467-026-68293-8): Quantum boomerang effect of light.
+2026 [Advanced Materials](https://doi.org/10.1002/adma.202519324): We report the Non-Hermitian Hybrid Topological Insulators.
+
+2026 [Nature Commun.](https://www.nature.com/articles/s41467-026-68293-8): Quantum boomerang effect of light.
+
+<div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 20px;">
+  <img src="/files/img/2026QBE.png.png" alt="RimeR1" style="width: 20%"/>
+</div> 
 
 2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
 
@@ -49,7 +55,7 @@ News
   <img src="/files/img/2023TimeR2.png" alt="RimeR2" style="width: 35%"/>
 </div> 
 
-2023 [Nature Commu.](https://www.nature.com/articles/s41467-023-41776-8): Observing the acoustic spatiotemporal vortices. Nature Communications 14, 6238 (2023). [News](http://physics.zju.edu.cn/2023/1012/c69694a2811695/page.htm).
+2023 [Nature Commun.](https://www.nature.com/articles/s41467-023-41776-8): Observing the acoustic spatiotemporal vortices. Nature Communications 14, 6238 (2023). [News](http://physics.zju.edu.cn/2023/1012/c69694a2811695/page.htm).
 
 <img src="/files/img/2023物理 cover2.JPG" alt="Dance" style="float: right; width: 120px; margin-left: 20px; margin-top: 10px; border-radius:5%; padding-bottom: 10px;">
 
@@ -67,7 +73,7 @@ Selected Publications
 ======
 1. Parity-Time-Symmetric Bimorphic Topological Insulators. <br>
 Tuo. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Yang**<sup>*</sup>. <br>
-[Advanced Materials 2026].
+[Advanced Materials (2026)](https://doi.org/10.1002/adma.202519324). 20 Jan. 2026.
 
 1. Quantum boomerang effect of light. <br>
 X. Hou<sup>#</sup>, Z. Wu<sup>#</sup>, F. Wang, S. Zhu, B. Yan, and **Z. Yang**<sup>†</sup>. <br>
