@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Zhaoju Yang
+Zhaoju Yang <br>
 Tenure-track professor of [School of Physics](https://physics.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) at Hangzhou, China.
 
 **Experience**  
-2020.09-: School of Physics, Zhejiang University.  
-2018-2020: Technion – Israel Institute of Technology, Postdoc Fellow.
-2013-2017: Nanyang Technological University - NTU Singapore, physics, PhD.  
-2009-2013: Jilin University, physics, BSc.
+2020.09-: School of Physics, Zhejiang University. <br>
+2018-2020: Technion – Israel Institute of Technology, Postdoc Fellow. <br>
+2013-2017: Nanyang Technological University - NTU Singapore, physics, PhD. <br>
+2009-2013: Jilin University, physics, BSc.  
 
 **Teaching**  
 Mechanics, undergraduate
@@ -27,9 +27,9 @@ Research
      style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px; border-radius:5%;"> 
 </center>
 
-We are dedicated to exploring the profound mysteries of the quantum world through the artificial lattices of photons and atoms. We aim to transcend the boundaries of conventional matter and uncover exotic topological, non-Hermitian, and many-body quantum phases:
-Theoretical Innovation: Starting from fundamental principles, we predict novel quantum phase transitions and topological protection mechanisms.
-Experimental Mastery: Utilizing advanced platforms such as photonic crystals, we transform abstract physical models into observable reality.
+We are dedicated to exploring the profound mysteries of the quantum world through the artificial lattices of photons and atoms. We aim to transcend the boundaries of conventional matter and uncover exotic topological, non-Hermitian, and many-body quantum phases: <br>
+Theoretical Innovation: Starting from fundamental principles, we predict novel quantum phase transitions and topological protection mechanisms. <br>
+Experimental Mastery: Utilizing advanced platforms such as photonic crystals, we transform abstract physical models into observable reality. <br>
 Our group, as leading authors, has published papers in Science, Nature Photonics, Nature Physics, PRL/PRX, and Nature Commun., et. al. We are looking for brilliant, curious, and driven students and postdocs who are eager to prove themselves amidst the challenges of theoretical thinking and experimental rigor.
 
 News
