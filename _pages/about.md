@@ -11,10 +11,10 @@ Zhaoju Yang <br>
 Tenure-track professor of [School of Physics](https://physics.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) at Hangzhou, China.
 
 **Experience**  
-2020.09-: School of Physics, Zhejiang University. <br>
-2018-2020: Technion – Israel Institute of Technology, Postdoc Fellow. <br>
-2013-2017: Nanyang Technological University - NTU Singapore, physics, PhD. <br>
-2009-2013: Jilin University, physics, BSc.  
+2020.09-present: School of Physics, Zhejiang University. <br>
+2018-2020: Technion – Israel Institute of Technology, Physics, Postdoc Fellow. <br>
+2013-2017: Nanyang Technological University - NTU Singapore, Physics, PhD. <br>
+2009-2013: Jilin University, Physics, BSc.  
 
 **Teaching**  
 Mechanics, undergraduate
@@ -36,7 +36,7 @@ News
 ======
 2026 [Nature Commun.](https://www.nature.com/articles/s41467-026-68293-8): Quantum boomerang effect of light.
 
-<div style="display: flex; gap: 150px; margin-top: 10px; margin-bottom: 20px;">
+<div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 20px;">
   <img src="/files/img/2026QBE.png" alt="QBE" style="width: 25%"/>
   <!-- <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="width: 25%"/> -->
 </div> 
@@ -46,9 +46,9 @@ News
 <!-- <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 150px; margin-left: 20px; margin-bottom: 10px;"> -->
 2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
 
-<div style="display: flex; gap: 150px; margin-top: 10px; margin-bottom: 20px;">
+<div style="display: flex; gap: 100px; margin-top: 10px; margin-bottom: 20px;">
   <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="width: 20%"/>
-  <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="width: 20%"/>
+  <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 160px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"/>
 </div> 
 <!-- <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 150px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"> -->
 
