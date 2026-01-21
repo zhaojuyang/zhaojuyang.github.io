@@ -36,7 +36,7 @@ News
 ======
 2026 [Nature Commun.](https://www.nature.com/articles/s41467-026-68293-8): Quantum boomerang effect of light.
 <div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 10px;">
-  <img src="/files/img/2026QBE.png" alt="QBE" style="width: 25%"/>
+  <img src="/files/img/2026QBE.png" alt="QBE" style="float: right; width: 200px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
   <!-- <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="width: 25%"/> -->
 </div> 
 
@@ -44,17 +44,17 @@ News
 
 <!-- <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 150px; margin-left: 20px; margin-bottom: 10px;"> -->
 2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
-<div style="display: flex; gap: 100px; margin-top: 10px; margin-bottom: 10px;">
-  <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 120px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
-  <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 120px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"/>
+<div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 10px;">
+  <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 150px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
+  <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 130px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"/>
 </div> 
 <!-- <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 150px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"> -->
 
-2024 [PRL](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.132.063804): Floquet 1D non-Hermitian skin effect and Floquet skin-topological effect in optical arrays of helical waveguides. Phys. Rev. Lett. 132, 063804 (2024). [News](http://physics.zju.edu.cn/2024/0216/c69694a2877676/page.htm).
+2024 [Phys. Rev. Lett.](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.132.063804): Floquet 1D non-Hermitian skin effect and Floquet skin-topological effect in optical arrays of helical waveguides. Phys. Rev. Lett. 132, 063804 (2024). [News](http://physics.zju.edu.cn/2024/0216/c69694a2877676/page.htm).
 
 2023 [Nature Photonics](https://doi.org/10.1038/s41566-023-01290-1): Quantum time refraction/reflection for matter waves. Nature Photonics 18, 68-73 (2024). Nature Photonics [News & Views](https://www.nature.com/articles/s41566-023-01343-5) ‘Reflection and refraction at a time boundary' for more details. News [Link 1](https://mp.weixin.qq.com/s/yp0b0pHG16GrQuMC64RWfg) & [Link 2](http://physics.zju.edu.cn/2023/0919/c69694a2803717/page.htm).
 <div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 10px;">
-  <img src="/files/img/2023TimeR.png" alt="TimeR1" style="float: right; width: 160px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
+  <img src="/files/img/2023TimeR.png" alt="TimeR1" style="float: right; width: 160px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"/>
   <img src="/files/img/2023TimeR2.png" alt="TimeR2" style="float: right; width: 300px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
 </div> 
 
@@ -66,8 +66,8 @@ News
 
 202205 [Science](https://www.science.org/doi/10.1126/science.abm2842): Our work Fractal photonic topological insulators has been published in Science. Please see the news [link](http://physics.zju.edu.cn/2022/0524/c69694a2553807/page.htm).
 <div style="display: flex; gap: 10px; margin-top: 8px; margin-bottom: 10px;">
-  <img src="/files/img/2022Science_fractal_Fig News 1.jpg" alt="fractal1" style="width: 25%;"/>
-  <img src="/files/img/2022Science_fractal_Fig News 2.jpg" alt="fractal2" style="width: 50%;"/>
+  <img src="/files/img/2022Science_fractal_Fig News 1.jpg" alt="fractal1" style="float: right; width: 180px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
+  <img src="/files/img/2022Science_fractal_Fig News 2.jpg" alt="fractal2" style="float: right; width: 360px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
 </div>
 
 202009 Excited by many great minds, I am now in an exponential decay into a normalized ground state.
