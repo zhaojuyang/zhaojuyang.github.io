@@ -32,52 +32,53 @@ As the 1st or corresponding author, my group has published papers in Science, Na
 
 News
 ======
-2026 [Advanced Materials](https://doi.org/10.1002/adma.202519324): We report the Non-Hermitian Hybrid Topological Insulators.
-
 2026 [Nature Commun.](https://www.nature.com/articles/s41467-026-68293-8): Quantum boomerang effect of light.
 
-<div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 20px;">
-  <img src="/files/img/2026QBE.png" alt="QBE" style="width: 35%"/>
+<div style="display: flex; gap: 200px; margin-top: 10px; margin-bottom: 20px;">
+  <img src="/files/img/2026QBE.png" alt="QBE" style="width: 30%"/>
+  <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="width: 30%"/>
 </div> 
 
-<img src="/files/img/2024nonabelian.png" alt="Dance" style="float: right; width: 150px; margin-left: 20px; margin-bottom: 10px;">
+2026 [Advanced Materials](https://doi.org/10.1002/adma.202519324): We report the Non-Hermitian Hybrid Topological Insulators.
+
+<!-- <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 150px; margin-left: 20px; margin-bottom: 10px;"> -->
 
 2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
 
-<img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 130px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;">
+<img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 150px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;">
 
 2024 [PRL](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.132.063804): Floquet 1D non-Hermitian skin effect and Floquet skin-topological effect in optical arrays of helical waveguides. Phys. Rev. Lett. 132, 063804 (2024). [News](http://physics.zju.edu.cn/2024/0216/c69694a2877676/page.htm).
 
 2023 [Nature Photonics](https://doi.org/10.1038/s41566-023-01290-1): Quantum time refraction/reflection for matter waves. Nature Photonics 18, 68-73 (2024). Nature Photonics [News & Views](https://www.nature.com/articles/s41566-023-01343-5) ‘Reflection and refraction at a time boundary' for more details. News [Link 1](https://mp.weixin.qq.com/s/yp0b0pHG16GrQuMC64RWfg) & [Link 2](http://physics.zju.edu.cn/2023/0919/c69694a2803717/page.htm). 
 
 <div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 20px;">
-  <img src="/files/img/2023TimeR.png" alt="RimeR1" style="width: 18%"/>
-  <img src="/files/img/2023TimeR2.png" alt="RimeR2" style="width: 35%"/>
+  <img src="/files/img/2023TimeR.png" alt="RimeR1" style="width: 20%"/>
+  <img src="/files/img/2023TimeR2.png" alt="RimeR2" style="width: 40%"/>
 </div> 
 
 2023 [Nature Commun.](https://www.nature.com/articles/s41467-023-41776-8): Observing the acoustic spatiotemporal vortices. Nature Communications 14, 6238 (2023). [News](http://physics.zju.edu.cn/2023/1012/c69694a2811695/page.htm).
 
-<img src="/files/img/2023物理 cover2.png" alt="Dance" style="float: right; width: 120px; margin-left: 20px; margin-top: 10px; border-radius:5%; padding-bottom: 10px;">
+<img src="/files/img/2023物理 cover2.png" alt="Dance" style="float: right; width: 130px; margin-left: 20px; margin-top: 10px; border-radius:5%; padding-bottom: 10px;">
 
 202304 <[物理](https://wuli.iphy.ac.cn/cn/article/doi/10.7693/wl20230402)>: 2023年第四期发表'从大自然的分形之美中寻找非凡物态'的科普评述文章. Physics 2023, 52(4): Looking for the nontrivial states of matter from fractals.
 
 202205 [Science](https://www.science.org/doi/10.1126/science.abm2842): Our work Fractal photonic topological insulators has been published in Science. Please see the news [link](http://physics.zju.edu.cn/2022/0524/c69694a2553807/page.htm).
 <div style="display: flex; gap: 10px; margin-top: 0px; margin-bottom: 20px;">
-  <img src="/files/img/2022Science_fractal_Fig News 1.jpg" alt="fractal1" style="width: 20%;"/>
-  <img src="/files/img/2022Science_fractal_Fig News 2.jpg" alt="fractal2" style="width: 40%;"/>
+  <img src="/files/img/2022Science_fractal_Fig News 1.jpg" alt="fractal1" style="width: 25%;"/>
+  <img src="/files/img/2022Science_fractal_Fig News 2.jpg" alt="fractal2" style="width: 50%;"/>
 </div>
 
 202009 Excited by many great minds, I am now in an exponential decay into a normalized ground state.
 
 Selected Publications
 ======
-1. Parity-Time-Symmetric Bimorphic Topological Insulators. <br>
-Tuo. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Yang**<sup>*</sup>. <br>
-[Advanced Materials (2026)](https://doi.org/10.1002/adma.202519324). 20 Jan. 2026.
-
 1. Quantum boomerang effect of light. <br>
 X. Hou<sup>#</sup>, Z. Wu<sup>#</sup>, F. Wang, S. Zhu, B. Yan, and **Z. Yang**<sup>†</sup>. <br>
 [Nature Communications (2026)](https://www.nature.com/articles/s41467-026-68293-8). 17 Jan. 2026. [arXiv](https://arxiv.org/abs/2505.10180). 15 May 2025.
+
+1. Parity-Time-Symmetric Bimorphic Topological Insulators. <br>
+Tuo. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Yang**<sup>*</sup>. <br>
+[Advanced Materials (2026)](https://doi.org/10.1002/adma.202519324). 20 Jan. 2026.
 
 1. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. <br>
 Q. Liang<sup>#</sup>, Z. Dong<sup>#</sup>,J. Pan<sup>#</sup>, H. Wang, H. Li, **Z. Yang**<sup>†</sup>, W. Yi<sup>†</sup> and B. Yan<sup>†</sup>. <br>
