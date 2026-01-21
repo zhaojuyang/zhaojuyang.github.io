@@ -46,7 +46,7 @@ News
 2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
 <div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 10px;">
   <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 150px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
-  <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 130px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"/>
+  <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 150px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"/>
 </div> 
 <!-- <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 150px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"> -->
 
@@ -55,7 +55,7 @@ News
 2023 [Nature Photonics](https://doi.org/10.1038/s41566-023-01290-1): Quantum time refraction/reflection for matter waves. Nature Photonics 18, 68-73 (2024). Nature Photonics [News & Views](https://www.nature.com/articles/s41566-023-01343-5) ‘Reflection and refraction at a time boundary' for more details. News [Link 1](https://mp.weixin.qq.com/s/yp0b0pHG16GrQuMC64RWfg) & [Link 2](http://physics.zju.edu.cn/2023/0919/c69694a2803717/page.htm).
 <div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 10px;">
   <img src="/files/img/2023TimeR.png" alt="TimeR1" style="float: right; width: 160px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"/>
-  <img src="/files/img/2023TimeR2.png" alt="TimeR2" style="float: right; width: 300px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
+  <img src="/files/img/2023TimeR2.png" alt="TimeR2" style="float: right; width: 320px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
 </div> 
 
 2023 [Nature Commun.](https://www.nature.com/articles/s41467-023-41776-8): Observing the acoustic spatiotemporal vortices. Nature Communications 14, 6238 (2023). [News](http://physics.zju.edu.cn/2023/1012/c69694a2811695/page.htm).
