@@ -44,14 +44,12 @@ News
 2026 [Advanced Materials](https://doi.org/10.1002/adma.202519324): We have proposed and realized the Non-Hermitian Hybrid Topological Insulators.
 
 <!-- <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 150px; margin-left: 20px; margin-bottom: 10px;"> -->
-
 2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
 
 <div style="display: flex; gap: 150px; margin-top: 10px; margin-bottom: 20px;">
   <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="width: 20%"/>
   <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="width: 20%"/>
 </div> 
-
 <!-- <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 150px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"> -->
 
 2024 [PRL](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.132.063804): Floquet 1D non-Hermitian skin effect and Floquet skin-topological effect in optical arrays of helical waveguides. Phys. Rev. Lett. 132, 063804 (2024). [News](http://physics.zju.edu.cn/2024/0216/c69694a2877676/page.htm).
