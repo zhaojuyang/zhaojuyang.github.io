@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhaoju Yang (杨兆举). Currently, I am a tenure-track professor of [School of Physics](https://physics.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) at Hangzhou city, China.
+Zhaoju Yang, Tenure-track professor of [School of Physics](https://physics.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) at Hangzhou city, China.
 
 **Experience**  
 2020.09-: School of Physics, Zhejiang University.  
@@ -26,17 +26,21 @@ Research
      style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px; border-radius:5%;"> 
 </center>
 
-My research focuses on the exploration of quantum phenomena in artificial lattices of photons and atoms. We aim to study the exotic topological, non-Hermitian, and many-body quantum phases of matter based on quantum platforms such as photonics, atoms and superconducting qubits.
+We are dedicated to exploring the profound mysteries of the quantum world through the artificial lattices of photons and atoms. We aim to transcend the boundaries of conventional matter and uncover exotic topological, non-Hermitian, and many-body quantum phases:
 
-As the 1st or corresponding author, my group has published papers in Science, Nature Photonics, Nature Physics, Physical Review X (PRX), Physical Review Letters (PRL), and Nature Communications, et. al. One of our papers has been cited over 1,000 times, and multiple articles have been recognized as ESI Highly Cited Papers. 
+Theoretical Innovation: Starting from fundamental principles, we predict novel quantum phase transitions and topological protection mechanisms.
+
+Experimental Mastery: Utilizing advanced platforms such as photonic crystals, we transform abstract physical models into observable reality.
+
+Our group, as leading authors, has published papers in Science, Nature Photonics, Nature Physics, PRL/PRX, and Nature Commun., et. al. We are looking for brilliant, curious, and driven students and postdocs who are eager to prove themselves amidst the challenges of theoretical thinking and experimental rigor.
 
 News
 ======
 2026 [Nature Commun.](https://www.nature.com/articles/s41467-026-68293-8): Quantum boomerang effect of light.
 
-<div style="display: flex; gap: 200px; margin-top: 10px; margin-bottom: 20px;">
-  <img src="/files/img/2026QBE.png" alt="QBE" style="width: 30%"/>
-  <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="width: 30%"/>
+<div style="display: flex; gap: 150px; margin-top: 10px; margin-bottom: 20px;">
+  <img src="/files/img/2026QBE.png" alt="QBE" style="width: 25%"/>
+  <!-- <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="width: 25%"/> -->
 </div> 
 
 2026 [Advanced Materials](https://doi.org/10.1002/adma.202519324): We report the Non-Hermitian Hybrid Topological Insulators.
@@ -45,15 +49,20 @@ News
 
 2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
 
-<img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 150px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;">
+<div style="display: flex; gap: 150px; margin-top: 10px; margin-bottom: 20px;">
+  <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="width: 25%"/>
+  <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="width: 25%"/>
+</div> 
+
+<!-- <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 150px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"> -->
 
 2024 [PRL](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.132.063804): Floquet 1D non-Hermitian skin effect and Floquet skin-topological effect in optical arrays of helical waveguides. Phys. Rev. Lett. 132, 063804 (2024). [News](http://physics.zju.edu.cn/2024/0216/c69694a2877676/page.htm).
 
 2023 [Nature Photonics](https://doi.org/10.1038/s41566-023-01290-1): Quantum time refraction/reflection for matter waves. Nature Photonics 18, 68-73 (2024). Nature Photonics [News & Views](https://www.nature.com/articles/s41566-023-01343-5) ‘Reflection and refraction at a time boundary' for more details. News [Link 1](https://mp.weixin.qq.com/s/yp0b0pHG16GrQuMC64RWfg) & [Link 2](http://physics.zju.edu.cn/2023/0919/c69694a2803717/page.htm). 
 
 <div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 20px;">
-  <img src="/files/img/2023TimeR.png" alt="RimeR1" style="width: 20%"/>
-  <img src="/files/img/2023TimeR2.png" alt="RimeR2" style="width: 40%"/>
+  <img src="/files/img/2023TimeR.png" alt="TimeR1" style="width: 20%"/>
+  <img src="/files/img/2023TimeR2.png" alt="TimeR2" style="width: 40%"/>
 </div> 
 
 2023 [Nature Commun.](https://www.nature.com/articles/s41467-023-41776-8): Observing the acoustic spatiotemporal vortices. Nature Communications 14, 6238 (2023). [News](http://physics.zju.edu.cn/2023/1012/c69694a2811695/page.htm).
