@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Zhaoju Yang, Tenure-track professor of [School of Physics](https://physics.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) at Hangzhou city, China.
+Zhaoju Yang
+Tenure-track professor of [School of Physics](https://physics.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) at Hangzhou, China.
 
 **Experience**  
 2020.09-: School of Physics, Zhejiang University.  
-2018-2020: Postdoc Fellow at Technion – Israel Institute of Technology.  
-2013-2017: PhD. in physics at Nanyang Technological University - NTU Singapore.  
-2009-2013: BSc. in physics at Jilin University.
+2018-2020: Technion – Israel Institute of Technology, Postdoc Fellow.
+2013-2017: Nanyang Technological University - NTU Singapore, physics, PhD.  
+2009-2013: Jilin University, physics, BSc.
 
 **Teaching**  
 Mechanics, undergraduate
@@ -27,11 +28,8 @@ Research
 </center>
 
 We are dedicated to exploring the profound mysteries of the quantum world through the artificial lattices of photons and atoms. We aim to transcend the boundaries of conventional matter and uncover exotic topological, non-Hermitian, and many-body quantum phases:
-
 Theoretical Innovation: Starting from fundamental principles, we predict novel quantum phase transitions and topological protection mechanisms.
-
 Experimental Mastery: Utilizing advanced platforms such as photonic crystals, we transform abstract physical models into observable reality.
-
 Our group, as leading authors, has published papers in Science, Nature Photonics, Nature Physics, PRL/PRX, and Nature Commun., et. al. We are looking for brilliant, curious, and driven students and postdocs who are eager to prove themselves amidst the challenges of theoretical thinking and experimental rigor.
 
 News
@@ -43,15 +41,15 @@ News
   <!-- <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="width: 25%"/> -->
 </div> 
 
-2026 [Advanced Materials](https://doi.org/10.1002/adma.202519324): We report the Non-Hermitian Hybrid Topological Insulators.
+2026 [Advanced Materials](https://doi.org/10.1002/adma.202519324): We have proposed and realized the Non-Hermitian Hybrid Topological Insulators.
 
 <!-- <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 150px; margin-left: 20px; margin-bottom: 10px;"> -->
 
 2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
 
 <div style="display: flex; gap: 150px; margin-top: 10px; margin-bottom: 20px;">
-  <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="width: 25%"/>
-  <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="width: 25%"/>
+  <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="width: 20%"/>
+  <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="width: 20%"/>
 </div> 
 
 <!-- <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 150px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"> -->
@@ -61,7 +59,7 @@ News
 2023 [Nature Photonics](https://doi.org/10.1038/s41566-023-01290-1): Quantum time refraction/reflection for matter waves. Nature Photonics 18, 68-73 (2024). Nature Photonics [News & Views](https://www.nature.com/articles/s41566-023-01343-5) ‘Reflection and refraction at a time boundary' for more details. News [Link 1](https://mp.weixin.qq.com/s/yp0b0pHG16GrQuMC64RWfg) & [Link 2](http://physics.zju.edu.cn/2023/0919/c69694a2803717/page.htm). 
 
 <div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 20px;">
-  <img src="/files/img/2023TimeR.png" alt="TimeR1" style="width: 20%"/>
+  <img src="/files/img/2023TimeR.png" alt="TimeR1" style="width: 25%"/>
   <img src="/files/img/2023TimeR2.png" alt="TimeR2" style="width: 40%"/>
 </div> 
 
