@@ -39,7 +39,7 @@ News
 2026 [Nature Commun.](https://www.nature.com/articles/s41467-026-68293-8): Quantum boomerang effect of light.
 
 <div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 20px;">
-  <img src="/files/img/2026QBE.png.png" alt="RimeR1" style="width: 20%"/>
+  <img src="/files/img/2026QBE.png" alt="QBE" style="width: 20%"/>
 </div> 
 
 2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
