@@ -96,9 +96,17 @@ Z. Dong<sup>#</sup>, H. Li<sup>#</sup>, T. Wan<sup>#</sup>, Q. Liang, **Z. Yang*
 [News & Views](https://www.nature.com/articles/s41566-023-01343-5): Reflection and refraction at a time boundary. <br>
 ESI highly cited paper. [[arXiv,](https://arxiv.org/abs/2303.02963) 6 Mar. 2023]
 
+1. Observation of the geometry-dependent skin effect and dynamical degeneracy splitting. <br>
+T. Wan, K. Zhang, J. Li, Z.-S. Yang<sup>†</sup>, **Z. Yang**<sup>†</sup>. <br>
+[Science Bulletin 68, 2330-2335 (2023)](https://doi.org/10.1016/j.scib.2023.09.013). Oct. 10, 2023. [arXiv:2303.11109 (2023).] 
+
 1. Topologically crafted spatiotemporal vortices in acoustics. <br>
 H. Zhang<sup>#</sup>, Y. Sun<sup>#</sup>, J. Huang<sup>#</sup>, B. Wu, **Z. Yang**<sup>†</sup>, K. Y. Bliokh, and Z. Ruan<sup>†</sup>. <br>
 [Nature Communications 14, 6238 (2023)](https://www.nature.com/articles/s41467-023-41776-8). Oct. 6, 2023. [arXiv:2303.10549 (2023). Mar. 19]
+
+1. Higher-order topological phase in an acoustic fractal lattice. <br>
+J. Li<sup>#</sup>, Q. Mo<sup>#</sup>, J.-H. Jiang, **Z. Yang**<sup>†</sup>. <br>
+[Science Bulletin 67, 2040-2044 (2022)](https://doi.org/10.1016/j.scib.2022.09.024). [Cover paper](https://www.sciencedirect.com/journal/science-bulletin/vol/67/issue/20). Sep. 27, 2022.
 
 1. Fractal photonic topological insulator. <br>
 T. Biesenthal, L. Maczewsky, **Z. Yang**<sup>†</sup>, M. Kremer, M. Segev, A. Szameit<sup>†</sup>, and M. Heinrich<sup>†</sup>. <br>

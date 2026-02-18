@@ -82,7 +82,7 @@ Phys. Rev. Applied 18, 064079 (2022). Dec. 26, 2022.
 
 1. Higher-order topological phase in an acoustic fractal lattice. <br>
 J. Li<sup>#</sup>, Q. Mo<sup>#</sup>, J.-H. Jiang, **Z. Yang**<sup>†</sup>. <br>
-Science Bulletin 67 (2022) 2040-2044. Sep. 27, 2022.
+[Science Bulletin 67, 2040-2044 (2022)](https://doi.org/10.1016/j.scib.2022.09.024). [Cover paper](https://www.sciencedirect.com/journal/science-bulletin/vol/67/issue/20). Sep. 27, 2022.
 
 1. Photonic topological insulator induced by a dislocation in three dimensions. <br>
 E. Lustig<sup>#</sup>, L. Maczewsky<sup>#</sup>, T. Biesenthalk, J. Beck, M. Heinrich, **Z. Yang**, Y. Plotnik, A. Szameit and M. Segev<sup>†</sup>. <br>
