@@ -106,7 +106,7 @@ H. Zhang<sup>#</sup>, Y. Sun<sup>#</sup>, J. Huang<sup>#</sup>, B. Wu, **Z. Yang
 
 1. Higher-order topological phase in an acoustic fractal lattice. <br>
 J. Li<sup>#</sup>, Q. Mo<sup>#</sup>, J.-H. Jiang, **Z. Yang**<sup>†</sup>. <br>
-[Science Bulletin 67, 2040-2044 (2022)](https://doi.org/10.1016/j.scib.2022.09.024). [Cover paper](https://www.sciencedirect.com/journal/science-bulletin/vol/67/issue/20). Sep. 27, 2022.
+[Science Bulletin 67, 2040-2044 (2022)](https://doi.org/10.1016/j.scib.2022.09.024). [Cover paper](https://www.sciencedirect.com/journal/science-bulletin/about/cover-stories/higher-order-topological-states-in-sierpinski-carpets). Sep. 27, 2022.
 
 1. Fractal photonic topological insulator. <br>
 T. Biesenthal, L. Maczewsky, **Z. Yang**<sup>†</sup>, M. Kremer, M. Segev, A. Szameit<sup>†</sup>, and M. Heinrich<sup>†</sup>. <br>
