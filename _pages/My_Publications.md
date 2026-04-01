@@ -15,7 +15,7 @@ X. Hou<sup>#</sup>, Z. Wu<sup>#</sup>, F. Wang, S. Zhu, B. Yan, and **Z. Yang**<
 
 1. Parity-Time-Symmetric Bimorphic Topological Insulators. <br>
 Tuo. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Yang**<sup>*</sup>. <br>
-[Advanced Materials (2026)](https://doi.org/10.1002/adma.202519324). 20 Jan. 2026.
+[Advanced Materials 38(13), e19324 (2026)](https://doi.org/10.1002/adma.202519324). 20 Jan. 2026.
 
 1. Non-Hermitian interacting quantum walks of correlated photons. <br>
 T. Wan & **Z. Yang**<sup>†</sup>. <br>
@@ -23,7 +23,7 @@ T. Wan & **Z. Yang**<sup>†</sup>. <br>
 
 1. Single Ultrafast Pulses Shaped to Spatiotemporal Images. <br>
 B. Wu<sup>#</sup>, H. Zhang<sup>#</sup>, G. Chen, Y. Sun, W. Zhang, S. Zhu, **Z. Yang**, Z. Ruan<sup>†</sup>. <br>
-[Laser & Photonics Reviews 2402238 (2025)]( https://doi.org/10.1002/lpor.202402238). First published: 22 March 2025.
+[Laser & Photonics Reviews 19, 2402238 (2025)]( https://doi.org/10.1002/lpor.202402238). First published: 22 March 2025.
 
 1. :trophy: Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. <br>
 Q. Liang<sup>#</sup>, Z. Dong<sup>#</sup>,J.-S. Pan<sup>#</sup>, H. Wang, H. Li, **Z. Yang**<sup>†</sup>, W. Yi<sup>†</sup> & B. Yan<sup>†</sup>. <br>
