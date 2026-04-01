@@ -80,7 +80,7 @@ X. Hou<sup>#</sup>, Z. Wu<sup>#</sup>, F. Wang, S. Zhu, B. Yan, and **Z. Yang**<
 
 1. Parity-Time-Symmetric Bimorphic Topological Insulators. <br>
 Tuo. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Yang**<sup>*</sup>. <br>
-[Advanced Materials (2026)](https://doi.org/10.1002/adma.202519324). 20 Jan. 2026.
+[Advanced Materials 38(13), e19324 (2026)](https://doi.org/10.1002/adma.202519324). 20 Jan. 2026.
 
 1. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. <br>
 Q. Liang<sup>#</sup>, Z. Dong<sup>#</sup>,J. Pan<sup>#</sup>, H. Wang, H. Li, **Z. Yang**<sup>†</sup>, W. Yi<sup>†</sup> and B. Yan<sup>†</sup>. <br>
