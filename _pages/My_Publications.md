@@ -17,6 +17,10 @@ X. Hou<sup>#</sup>, Z. Wu<sup>#</sup>, F. Wang, S. Zhu, B. Yan, and **Z. Yang**<
 Tuo. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Yang**<sup>*</sup>. <br>
 [Advanced Materials 38(13), e19324 (2026)](https://doi.org/10.1002/adma.202519324). 20 Jan. 2026.
 
+1. Noncollinear ferrielectricity in a van der Waals crystal. <br>
+J. Fu, G. Wang, Y. Qi, W. He, ..., **Z. Yang**, ... and **Y. Li**<sup>*</sup>. <br>
+[Nature Communications 17 (1), 4245 (2026)].19 Mar. 2026.
+
 1. Non-Hermitian interacting quantum walks of correlated photons. <br>
 T. Wan & **Z. Yang**<sup>†</sup>. <br>
 [Commu. Phys. 8, 131 (2025)](https://doi.org/10.1038/s42005-025-02038-9). 1 Apr. 2025.

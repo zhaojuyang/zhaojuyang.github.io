@@ -5,10 +5,11 @@ permalink: /Group/
 author_profile: true
 ---
 
-**[2025] Group06**
+
+**[2025] Group06; [2026] Group05**
 <div style="display: flex; gap: 10px; margin-bottom: 10px;">
   <img src="/files/img_group/202506杭州天域开元.jpg" alt="2025" style="height: 120px; object-fit: contain"/>
-  
+  <img src="/files/img_group/2026Group.jpg" alt="2026" style="height: 120px; object-fit: contain"/>
 </div> 
 
 **[2024] SG02；成都04；恩施07；重庆08；海口09；ZJU羽球11**
