@@ -8,18 +8,25 @@ author_profile: true
 A full list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=9HWoXRUAAAAJ). <br>
 Selected publications are labeled by :trophy:. 
 
-
 1. :trophy: Quantum boomerang effect of light. <br>
 X. Hou<sup>#</sup>, Z. Wu<sup>#</sup>, F. Wang, S. Zhu, B. Yan, and **Z. Yang**<sup>*</sup>. <br>
 [Nature Communications 17, 1579 (2026)](https://www.nature.com/articles/s41467-026-68293-8). 17 Jan. 2026. [arXiv](https://arxiv.org/abs/2505.10180). 15 May 2025.
 
-1. Parity-Time-Symmetric Bimorphic Topological Insulators. <br>
+1. Parity-time-symmetric bimorphic topological insulators. <br>
 Tuo. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Yang**<sup>*</sup>. <br>
 [Advanced Materials 38(13), e19324 (2026)](https://doi.org/10.1002/adma.202519324). 20 Jan. 2026.
 
+1. Nonlinear photonic tripartite phase. <br>
+X. Hou<sup>#</sup>, F. Wang<sup>#</sup>, Z. Wu, S. Zhang, S.-Z. Li, L. Ying, H. Lin, B. Zhang, Z. Li<sup>*</sup>, S.-L. Zhu<sup>*</sup>, **Z. Yang**<sup>*</sup>.
+arXiv:2605.21983 (2026). 21 May 2026.
+
+1. Massive coherent equipartition of light by the geometric phase of null space. <br>
+X. Hou<sup>#</sup>, D. Wang<sup>#</sup>, F. Wang, C. Lu, **Z. Yang**<sup>*</sup>, and G. Ma<sup>*</sup>. <br>
+arXiv:2602.04259 (2026). 4 Feb. 2026.
+
 1. Noncollinear ferrielectricity in a van der Waals crystal. <br>
 J. Fu, G. Wang, Y. Qi, W. He, ..., **Z. Yang**, ... and Y. Li<sup>*</sup>. <br>
-[Nature Communications 17 (1), 4245 (2026)].19 Mar. 2026.
+Nature Communications 17 (1), 4245 (2026). 19 Mar. 2026.
 
 1. Non-Hermitian interacting quantum walks of correlated photons. <br>
 T. Wan & **Z. Yang**<sup>†</sup>. <br>
@@ -80,7 +87,7 @@ T. Biesenthal, L. Maczewsky, **Z. Yang**<sup>†</sup>, M. Kremer, M. Segev, A. 
 [Science 376, 1114-1119 (2022)](https://www.science.org/doi/10.1126/science.abm2842). Editorial Summary. ESI highly cited paper.  <br>
 [Physics World](https://physicsworld.com/a/photonic-fractals-open-a-new-area-of-topological-physics/): Photonic fractals open a new area of topological physics. Technology.org.
 
-1. Imaginary-Disorder-Induced Topological Phase Transitions. <br>
+1. Imaginary-disorder-induced topological phase transitions. <br>
 Q. Mo, Y. Sun, J. Li, Z. Ruan, and **Z. Yang**<sup>†</sup>. <br>
 Phys. Rev. Applied 18, 064079 (2022). Dec. 26, 2022.
 
