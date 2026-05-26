@@ -17,7 +17,7 @@ Tuo. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Ya
 [Advanced Materials 38(13), e19324 (2026)](https://doi.org/10.1002/adma.202519324). 20 Jan. 2026.
 
 1. Nonlinear photonic tripartite phase. <br>
-X. Hou<sup>#</sup>, F. Wang<sup>#</sup>, Z. Wu, S. Zhang, S.-Z. Li, L. Ying, H. Lin, B. Zhang, Z. Li<sup>*</sup>, S.-L. Zhu<sup>*</sup>, **Z. Yang**<sup>*</sup>.
+X. Hou<sup>#</sup>, F. Wang<sup>#</sup>, Z. Wu, S. Zhang, S.-Z. Li, L. Ying, H. Lin, B. Zhang, Z. Li<sup>*</sup>, S.-L. Zhu<sup>*</sup>, **Z. Yang**<sup>*</sup>. <br>
 arXiv:2605.21983 (2026). 21 May 2026.
 
 1. Massive coherent equipartition of light by the geometric phase of null space. <br>
