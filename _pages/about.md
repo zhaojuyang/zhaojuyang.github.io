@@ -26,11 +26,15 @@ Research
      alt="Dancing of photons and atoms"
      style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px; border-radius:5%;"> 
 </center>
-
-We are dedicated to exploring the profound mysteries of the quantum world through the artificial lattices of photons and atoms. We aim to transcend the boundaries of conventional matter and uncover exotic topological, non-Hermitian, and many-body quantum phases: <br>
-Theoretical Innovation: Starting from fundamental principles, we predict novel quantum phase transitions and topological protection mechanisms. <br>
-Experimental Mastery: Utilizing advanced platforms such as photonic crystals, we transform abstract physical models into observable reality. <br>
-Our group, as leading authors, has published papers in Science, Nature Photonics, Nature Physics, PRL/PRX, and Nature Commun., et. al. We are looking for brilliant, curious, and driven students and postdocs who are eager to prove themselves amidst the challenges of theoretical thinking and experimental rigor.
+We explore the quantum world through artificial lattices of photons and atoms. Our goal is to uncover exotic topological, non-Hermitian, and many-body quantum phases: <br>
+**AI-Assisted Discovery** <br>
+We use large language models and scientific agents to accelerate quantum simulation, theoretical modeling, literature exploration, and experimental design. AI serves as a research assistant that strengthens physical intuition and scientific discovery. <br>
+**Theoretical Innovation** <br>
+Starting from fundamental principles, we predict novel quantum phase transitions and topological protection mechanisms. <br>
+**Experimental Realization** <br>
+Utilizing advanced platforms such as integrated photonics, we transform abstract physical models into observable reality. <br>
+Our group has contributed leading-author works to Science, Nature Photonics, Nature Physics, PRL/PRX, Nature Communications et al. <br>
+We welcome brilliant, curious, and driven students and postdocs who are eager to grow through theoretical thinking, experimental rigor, and AI-assisted scientific discovery.
 
 News
 ======
