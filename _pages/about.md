@@ -29,7 +29,7 @@ Research
 We explore quantum physics with artificial lattices of photons and atoms, where new topological, non-Hermitian, and many-body phases can emerge beyond conventional matter. <br>
 **AI-Assisted Discovery** <br>
 We use large language models and scientific agents to accelerate quantum simulation, theory, and experimental design, while keeping physical insight at the core. <br>
-**Theory and Experiment**
+**Theory and Experiment** <br>
 We combine fundamental theory with experimental realization. We predict new quantum phases and topological mechanisms, and realize them in photonic, atomic, and synthetic quantum platforms. <br>
 Our group has contributed leading-author works to Science, Nature Photonics, Nature Physics, PRL/PRX, Nature Communications et al. <br>
 We welcome brilliant, curious, and driven students and postdocs who are eager to grow through theoretical thinking, experimental rigor, and AI-assisted scientific discovery.
