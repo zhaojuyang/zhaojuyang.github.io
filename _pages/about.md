@@ -26,13 +26,11 @@ Research
      alt="Dancing of photons and atoms"
      style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px; border-radius:5%;"> 
 </center>
-We explore the quantum world through artificial lattices of photons and atoms. Our goal is to uncover exotic topological, non-Hermitian, and many-body quantum phases: <br>
+We explore quantum physics with artificial lattices of photons and atoms, where new topological, non-Hermitian, and many-body phases can emerge beyond conventional matter. <br>
 **AI-Assisted Discovery** <br>
-We use large language models and scientific agents to accelerate quantum simulation, theoretical modeling, literature exploration, and experimental design. AI serves as a research assistant that strengthens physical intuition and scientific discovery. <br>
-**Theoretical Innovation** <br>
-Starting from fundamental principles, we predict novel quantum phase transitions and topological protection mechanisms. <br>
-**Experimental Realization** <br>
-Utilizing advanced platforms such as integrated photonics, we transform abstract physical models into observable reality. <br>
+We use large language models and scientific agents to accelerate quantum simulation, theory, and experimental design, while keeping physical insight at the core. <br>
+**Theory and Experiment**
+We combine fundamental theory with experimental realization. We predict new quantum phases and topological mechanisms, and realize them in photonic, atomic, and synthetic quantum platforms. <br>
 Our group has contributed leading-author works to Science, Nature Photonics, Nature Physics, PRL/PRX, Nature Communications et al. <br>
 We welcome brilliant, curious, and driven students and postdocs who are eager to grow through theoretical thinking, experimental rigor, and AI-assisted scientific discovery.
 
