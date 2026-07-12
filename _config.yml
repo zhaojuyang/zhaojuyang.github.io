@@ -22,7 +22,7 @@ repository               : "zhaojuyang/zhaojuyang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Zhaoju Yang"
   pronouns         : # example: "she/her"  
   bio              : #"Quantum simulation and quantum computation" #"Short biography for the left-hand sidebar"
