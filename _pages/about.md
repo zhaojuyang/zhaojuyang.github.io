@@ -112,7 +112,7 @@ J. Li<sup>#</sup>, Q. Mo<sup>#</sup>, J.-H. Jiang, **Z. Yang**<sup>†</sup>. <b
 
 1. Fractal photonic topological insulator. <br>
 T. Biesenthal, L. Maczewsky, **Z. Yang**<sup>†</sup>, M. Kremer, M. Segev, A. Szameit<sup>†</sup>, and M. Heinrich<sup>†</sup>. <br>
-[Science 376, 1114-1119 (2022)](https://www.science.org/doi/10.1126/science.abm2842). Editorial Summary. ESI highly cited paper. <br>
+[Science 376 (6597), 1114-1119 (2022)](https://www.science.org/doi/10.1126/science.abm2842). Editorial Summary. ESI highly cited paper. <br>
 [Physics World](https://physicsworld.com/a/photonic-fractals-open-a-new-area-of-topological-physics/): Photonic fractals open a new area of topological physics. Technology.org.
 
 1. Photonic Floquet topological insulators in a fractal lattice. <br>
