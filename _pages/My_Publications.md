@@ -28,6 +28,10 @@ arXiv:2602.04259 (2026). 4 Feb. 2026.
 Fangyu Wang<sup>#</sup>, Tuo Wan<sup>#</sup>, Zhaoxin Wu, Xiangrui Hou, Courtney Fleming, **Zhaoju Yang**<sup>†</sup>, Li Ge<sup>*</sup>. <br>
 [Laser & Photonics Reviews 0:e71723 (2026)](https://doi.org/10.1002/lpor.71723). 15 Aug. 2026.
 
+1. Synergistically Enhanced Seebeck Coefficient and Electrical Conductivity Enable High Power Factor in PbTe/Ge Heterostructures for Broadband Photothermoelectric Detection. <br>
+H. Zhu Wang, ... Z. Yang, H. Wu a, S. Zhao. <br>
+Nano Energy 158, 112297 (2026). 12 Aug. 2026.
+
 1. Noncollinear ferrielectricity in a van der Waals crystal. <br>
 J. Fu, G. Wang, Y. Qi, W. He, ..., **Z. Yang**, ... and Y. Li<sup>*</sup>. <br>
 Nature Communications 17 (1), 4245 (2026). 19 Mar. 2026.
