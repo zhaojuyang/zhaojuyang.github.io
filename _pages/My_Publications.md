@@ -24,6 +24,10 @@ arXiv:2605.21983 (2026). 21 May 2026.
 X. Hou<sup>#</sup>, D. Wang<sup>#</sup>, F. Wang, C. Lu, **Z. Yang**<sup>*</sup>, and G. Ma<sup>*</sup>. <br>
 arXiv:2602.04259 (2026). 4 Feb. 2026.
 
+1. Advances on Topological Photonics in Non-Hermitian, Spatial-Temporal, Nonlinear, and Quantum Regimes. <br>
+Fangyu Wan, Xiangrui Hou, Yeyang Sun, Yiqi Zhang<sup>†</sup>, Dawei Wang<sup>†</sup> and **Zhaoju Yang**<sup>†</sup>. <br>
+[Laser & Photonics Reviews 0:e71929 (2026)](https://doi.org/10.1002/lpor.71723). Invited Review. 21 Sep. 2026.
+
 1. Frustrated Non-Hermitian Skin Effect in a Floquet Photonic System. <br>
 Fangyu Wang<sup>#</sup>, Tuo Wan<sup>#</sup>, Zhaoxin Wu, Xiangrui Hou, Courtney Fleming, **Zhaoju Yang**<sup>†</sup>, Li Ge<sup>*</sup>. <br>
 [Laser & Photonics Reviews 0:e71723 (2026)](https://doi.org/10.1002/lpor.71723). 15 Aug. 2026.
