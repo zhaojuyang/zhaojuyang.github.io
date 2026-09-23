@@ -94,7 +94,7 @@ Advanced Functional Materials, 2302197, 1-8, (2023).
 SUN Y.-Y., LI J.-K., YANG Zhao-Ju<sup>†</sup>. <br>
 [PHYSICS](https://wuli.iphy.ac.cn/en/article/doi/10.7693/wl20230402), 2023, 52(4): 232-238. 物理，2023, 52(4): 232-238. 从大自然的分形之美中寻找非凡物态
 
-1. :trophy: Fractal photonic topological insulator. <br>
+1. :trophy: Fractal photonic topological insulators. <br>
 T. Biesenthal, L. Maczewsky, **Z. Yang**<sup>†</sup>, M. Kremer, M. Segev, A. Szameit<sup>†</sup>, M. Heinrich<sup>†</sup>. <br>
 [Science 376, 1114-1119 (2022)](https://www.science.org/doi/10.1126/science.abm2842). Editorial Summary. ESI highly cited paper.  <br>
 [Physics World](https://physicsworld.com/a/photonic-fractals-open-a-new-area-of-topological-physics/): Photonic fractals open a new area of topological physics. Technology.org.

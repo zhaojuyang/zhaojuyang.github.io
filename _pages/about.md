@@ -110,7 +110,7 @@ H. Zhang<sup>#</sup>, Y. Sun<sup>#</sup>, J. Huang<sup>#</sup>, B. Wu, **Z. Yang
 J. Li<sup>#</sup>, Q. Mo<sup>#</sup>, J.-H. Jiang, **Z. Yang**<sup>†</sup>. <br>
 [Science Bulletin 67, 2040-2044 (2022)](https://doi.org/10.1016/j.scib.2022.09.024). [Cover paper](https://www.sciencedirect.com/journal/science-bulletin/about/cover-stories/higher-order-topological-states-in-sierpinski-carpets). Sep. 27, 2022.
 
-1. Fractal photonic topological insulator. <br>
+1. Fractal photonic topological insulators. <br>
 T. Biesenthal, L. Maczewsky, **Z. Yang**<sup>†</sup>, M. Kremer, M. Segev, A. Szameit<sup>†</sup>, and M. Heinrich<sup>†</sup>. <br>
 [Science 376 (6597), 1114-1119 (2022)](https://www.science.org/doi/10.1126/science.abm2842). Editorial Summary. ESI highly cited paper. <br>
 [Physics World](https://physicsworld.com/a/photonic-fractals-open-a-new-area-of-topological-physics/): Photonic fractals open a new area of topological physics. Technology.org.
