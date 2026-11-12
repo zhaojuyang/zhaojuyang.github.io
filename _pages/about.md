@@ -77,8 +77,7 @@ News
 Selected Publications
 ======
 1. Altermagnetism in a new light.  <br>
-**Z. Yang**<sup>*</sup>. <br>
-[Nature Physics, News & Views (2026)](https://doi.org/10.1038/s41567-026-03532-9). 11 Nov. 2026.
+**Z. Yang**<sup>*</sup>. [Nature Physics, News & Views (2026)](https://doi.org/10.1038/s41567-026-03532-9). 11 Nov. 2026.
 
 1. Quantum boomerang effect of light. <br>
 X. Hou<sup>#</sup>, Z. Wu<sup>#</sup>, F. Wang, S. Zhu, B. Yan, and **Z. Yang**<sup>*</sup>. <br>
