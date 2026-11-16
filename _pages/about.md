@@ -49,15 +49,9 @@ News
 
 2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
 <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 135px; margin-left: 5px; margin-bottom: 5px; border-radius:1%;">
-<!-- 
-<div style="display: flex; gap: 5px; margin-top: 5px; margin-bottom: 5px;">
-  <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 135px; margin-left: 5px; margin-bottom: 5px; border-radius:1%;"/>
-  <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 135px; margin-left: 5px; margin-bottom: 5px; border-radius:5%;"/>
-</div>  -->
 
 2024 [Phys. Rev. Lett.](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.132.063804): Floquet 1D non-Hermitian skin effect and Floquet skin-topological effect in optical arrays of helical waveguides. Phys. Rev. Lett. 132, 063804 (2024). [News](http://physics.zju.edu.cn/2024/0216/c69694a2877676/page.htm).
 <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 135px; margin-left: 5px; margin-bottom: 5px; border-radius:5%;">
-
 
 2023 [Nature Photonics](https://doi.org/10.1038/s41566-023-01290-1): Quantum time refraction/reflection for matter waves. Nature Photonics 18, 68-73 (2024). Nature Photonics [News & Views](https://www.nature.com/articles/s41566-023-01343-5) ‘Reflection and refraction at a time boundary' for more details. News [Link 1](https://mp.weixin.qq.com/s/yp0b0pHG16GrQuMC64RWfg) & [Link 2](http://physics.zju.edu.cn/2023/0919/c69694a2803717/page.htm).
 <div style="display: flex; gap: 5px; margin-top: 5px; margin-bottom: 5px;">
