@@ -61,7 +61,6 @@ News
 
 2023 [Nature Commun.](https://www.nature.com/articles/s41467-023-41776-8): Observing the acoustic spatiotemporal vortices. Nature Communications 14, 6238 (2023). [News](http://physics.zju.edu.cn/2023/1012/c69694a2811695/page.htm).
 <img src="/files/img/2023物理 cover2.png" alt="Dance" style="float: right; width: 130px; margin-left: 20px; margin-top: 5px; border-radius:5%;">
-<!-- padding-bottom: 10px;"> -->
 
 202304 <[物理](https://wuli.iphy.ac.cn/cn/article/doi/10.7693/wl20230402)>: 2023年第四期发表'从大自然的分形之美中寻找非凡物态'的科普评述文章. Physics 2023, 52(4): Looking for the nontrivial states of matter from fractals.
 
