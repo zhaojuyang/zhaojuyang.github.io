@@ -42,26 +42,22 @@ News
   <!-- <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 135px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"/> -->
 </div> 
 
-
 2026 [Nature Commun.](https://www.nature.com/articles/s41467-026-68293-8): Quantum boomerang effect of light.
 <img src="/files/img/2026QBE.png" alt="QBE" style="float: right; width: 200px; margin-left: 5px; margin-top: 5px; border-radius:1%;">
 
-<!-- <div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 10px;">
-  <img src="/files/img/2026QBE.png" alt="QBE" style="float: right; width: 200px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
-  <!-- <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="width: 25%"/> -->
-<!-- </div>  -->
-
 2026 [Advanced Materials](https://doi.org/10.1002/adma.202519324): We have proposed and realized the Non-Hermitian Hybrid Topological Insulators.
 
-<!-- <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 150px; margin-left: 20px; margin-bottom: 10px;"> -->
 2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
+<img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 135px; margin-left: 5px; margin-bottom: 5px; border-radius:1%;">
+<!-- 
 <div style="display: flex; gap: 5px; margin-top: 5px; margin-bottom: 5px;">
   <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 135px; margin-left: 5px; margin-bottom: 5px; border-radius:1%;"/>
   <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 135px; margin-left: 5px; margin-bottom: 5px; border-radius:5%;"/>
-</div> 
-<!-- <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 150px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"> -->
+</div>  -->
 
 2024 [Phys. Rev. Lett.](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.132.063804): Floquet 1D non-Hermitian skin effect and Floquet skin-topological effect in optical arrays of helical waveguides. Phys. Rev. Lett. 132, 063804 (2024). [News](http://physics.zju.edu.cn/2024/0216/c69694a2877676/page.htm).
+<img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 135px; margin-left: 5px; margin-bottom: 5px; border-radius:5%;">
+
 
 2023 [Nature Photonics](https://doi.org/10.1038/s41566-023-01290-1): Quantum time refraction/reflection for matter waves. Nature Photonics 18, 68-73 (2024). Nature Photonics [News & Views](https://www.nature.com/articles/s41566-023-01343-5) ‘Reflection and refraction at a time boundary' for more details. News [Link 1](https://mp.weixin.qq.com/s/yp0b0pHG16GrQuMC64RWfg) & [Link 2](http://physics.zju.edu.cn/2023/0919/c69694a2803717/page.htm).
 <div style="display: flex; gap: 5px; margin-top: 5px; margin-bottom: 5px;">
