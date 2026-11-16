@@ -37,23 +37,28 @@ We welcome brilliant, curious, and driven students and postdocs who are eager to
 News
 ======
 2026 AI World Labs
-<img src="/files/img/2026_AI_lab_Atlas_10s_compact.gif" alt="wlabs" style="float: right; width: 130px; margin-left: 10px; margin-top: 10px; border-radius:1%;">
+<div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 10px;">
+  <img src="/files/img/2026_AI_lab_Atlas_10s_compact.gif" alt="wlabs" style="float: right; width: 300px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
+  <!-- <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 135px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"/> -->
+</div> 
+
+<!-- <img src="/files/img/2026_AI_lab_Atlas_10s_compact.gif" alt="wlabs" style="float: right; width: 200px; margin-left: 10px; margin-top: 10px; border-radius:1%;"> -->
 
 2026 [Nature Commun.](https://www.nature.com/articles/s41467-026-68293-8): Quantum boomerang effect of light.
-<img src="/files/img/2026QBE.png" alt="QBE" style="float: right; width: 130px; margin-left: 10px; margin-top: 10px; border-radius:1%;">
+<img src="/files/img/2026QBE.png" alt="QBE" style="float: right; width: 200px; margin-left: 10px; margin-top: 10px; border-radius:1%;">
 
 <!-- <div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 10px;">
   <img src="/files/img/2026QBE.png" alt="QBE" style="float: right; width: 200px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
   <!-- <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="width: 25%"/> -->
-<!-- </div>  --> -->
+<!-- </div>  -->
 
 2026 [Advanced Materials](https://doi.org/10.1002/adma.202519324): We have proposed and realized the Non-Hermitian Hybrid Topological Insulators.
 
 <!-- <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 150px; margin-left: 20px; margin-bottom: 10px;"> -->
 2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
 <div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 10px;">
-  <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 150px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
-  <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 145px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"/>
+  <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 135px; margin-left: 10px; margin-bottom: 10px; border-radius:1%;"/>
+  <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 135px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"/>
 </div> 
 <!-- <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 150px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"> -->
 
