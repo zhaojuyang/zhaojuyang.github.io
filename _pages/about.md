@@ -36,30 +36,30 @@ We welcome brilliant, curious, and driven students and postdocs who are eager to
 
 News
 ======
-2026 AI World Labs
+202611 AI World Labs
 <div style="display: flex; gap: 5px; margin-top: 5px; margin-bottom: 5px;">
   <img src="/files/img/2026_AI_lab_Atlas_10s_compact.gif" alt="wlabs" style="float: right; width: 200px; margin-left: 5px; margin-bottom: 5px; border-radius:1%;"/>
   <!-- <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 135px; margin-left: 10px; margin-bottom: 10px; border-radius:5%;"/> -->
 </div> 
 
-2026 [Nature Commun.](https://www.nature.com/articles/s41467-026-68293-8): Quantum boomerang effect of light.
+202601 [Nature Commun.](https://www.nature.com/articles/s41467-026-68293-8): Quantum boomerang effect of light.
 <img src="/files/img/2026QBE.png" alt="QBE" style="float: right; width: 200px; margin-left: 5px; margin-top: 5px; border-radius:1%;">
 
-2026 [Advanced Materials](https://doi.org/10.1002/adma.202519324): We have proposed and realized the Non-Hermitian Hybrid Topological Insulators.
+202601 [Advanced Materials](https://doi.org/10.1002/adma.202519324): We have proposed and realized the Non-Hermitian Hybrid Topological Insulators.
 
-2024 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
+202409 [Nature Physics](https://www.nature.com/articles/s41567-024-02644-4): Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. ZJU [news1](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w), [news2](https://mp.weixin.qq.com/s/UmNhIYGsmS2ypfKns5Vu-w).
 <img src="/files/img/2024nonabelian.png" alt="2024nphys" style="float: right; width: 135px; margin-left: 5px; margin-bottom: 5px; border-radius:1%;">
 
-2024 [Phys. Rev. Lett.](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.132.063804): Floquet 1D non-Hermitian skin effect and Floquet skin-topological effect in optical arrays of helical waveguides. Phys. Rev. Lett. 132, 063804 (2024). [News](http://physics.zju.edu.cn/2024/0216/c69694a2877676/page.htm).
+202402 [Phys. Rev. Lett.](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.132.063804): Floquet 1D non-Hermitian skin effect and Floquet skin-topological effect in optical arrays of helical waveguides. Phys. Rev. Lett. 132, 063804 (2024). [News](http://physics.zju.edu.cn/2024/0216/c69694a2877676/page.htm).
 <img src="/files/img/2024Floquet_skin.png" alt="2024prl" style="float: right; width: 135px; margin-left: 5px; margin-bottom: 5px; border-radius:5%;">
 
-2023 [Nature Photonics](https://doi.org/10.1038/s41566-023-01290-1): Quantum time refraction/reflection for matter waves. Nature Photonics 18, 68-73 (2024). Nature Photonics [News & Views](https://www.nature.com/articles/s41566-023-01343-5) ‘Reflection and refraction at a time boundary' for more details. News [Link 1](https://mp.weixin.qq.com/s/yp0b0pHG16GrQuMC64RWfg) & [Link 2](http://physics.zju.edu.cn/2023/0919/c69694a2803717/page.htm).
+202309 [Nature Photonics](https://doi.org/10.1038/s41566-023-01290-1): Quantum time refraction/reflection for matter waves. Nature Photonics 18, 68-73 (2024). Nature Photonics [News & Views](https://www.nature.com/articles/s41566-023-01343-5) ‘Reflection and refraction at a time boundary' for more details. News [Link 1](https://mp.weixin.qq.com/s/yp0b0pHG16GrQuMC64RWfg) & [Link 2](http://physics.zju.edu.cn/2023/0919/c69694a2803717/page.htm).
 <div style="display: flex; gap: 5px; margin-top: 5px; margin-bottom: 5px;">
   <img src="/files/img/2023TimeR.png" alt="TimeR1" style="float: right; width: 160px; margin-left: 5px; margin-bottom: 5px; border-radius:5%;"/>
   <img src="/files/img/2023TimeR2.png" alt="TimeR2" style="float: right; width: 320px; margin-left: 5px; margin-bottom: 5px; border-radius:1%;"/>
 </div> 
 
-2023 [Nature Commun.](https://www.nature.com/articles/s41467-023-41776-8): Observing the acoustic spatiotemporal vortices. Nature Communications 14, 6238 (2023). [News](http://physics.zju.edu.cn/2023/1012/c69694a2811695/page.htm).
+202310 [Nature Commun.](https://www.nature.com/articles/s41467-023-41776-8): Observing the acoustic spatiotemporal vortices. Nature Communications 14, 6238 (2023). [News](http://physics.zju.edu.cn/2023/1012/c69694a2811695/page.htm).
 <img src="/files/img/2023物理 cover2.png" alt="Dance" style="float: right; width: 130px; margin-left: 20px; margin-top: 5px; border-radius:5%;">
 
 202304 <[物理](https://wuli.iphy.ac.cn/cn/article/doi/10.7693/wl20230402)>: 2023年第四期发表'从大自然的分形之美中寻找非凡物态'的科普评述文章. Physics 2023, 52(4): Looking for the nontrivial states of matter from fractals.
@@ -76,7 +76,7 @@ Selected Publications
 ======
 1. Fractality-induced photonic topological insulators. <br>
 S. Zhang<sup>#</sup>, Z. Wu<sup>#</sup>, L. Eek, C. M. Smith<sup>*</sup>, and **Z. Yang**<sup>*</sup>. <br>
-[Nature Communications], in press.
+[Nature Communications], in press.	[arXiv:2606.23505 (2026), 22 Jun.](https://arxiv.org/abs/2606.23505)
 
 1. Altermagnetism in a new light. **Z. Yang**<sup>*</sup>.  <br>
 [Nature Physics, News & Views (2026)](https://doi.org/10.1038/s41567-026-03532-9). 11 Nov. 2026.
