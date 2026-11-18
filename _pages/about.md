@@ -74,15 +74,15 @@ News
 
 Selected Publications
 ======
-1. Altermagnetism in a new light.  <br>
-**Z. Yang**<sup>*</sup>. [Nature Physics, News & Views (2026)](https://doi.org/10.1038/s41567-026-03532-9). 11 Nov. 2026.
+1. Altermagnetism in a new light. **Z. Yang**<sup>*</sup>.  <br>
+[Nature Physics, News & Views (2026)](https://doi.org/10.1038/s41567-026-03532-9). 11 Nov. 2026.
 
 1. Quantum boomerang effect of light. <br>
 X. Hou<sup>#</sup>, Z. Wu<sup>#</sup>, F. Wang, S. Zhu, B. Yan, and **Z. Yang**<sup>*</sup>. <br>
 [Nature Communications 17, 1579 (2026)](https://www.nature.com/articles/s41467-026-68293-8). 17 Jan. 2026. [arXiv](https://arxiv.org/abs/2505.10180). 15 May 2025.
 
 1. Parity-Time-Symmetric Bimorphic Topological Insulators. <br>
-Tuo. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Yang**<sup>*</sup>. <br>
+T. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Yang**<sup>*</sup>. <br>
 [Advanced Materials 38(13), e19324 (2026)](https://doi.org/10.1002/adma.202519324). 20 Jan. 2026.
 
 1. Chiral dynamics of ultracold atoms under a tunable SU(2) synthetic gauge field. <br>

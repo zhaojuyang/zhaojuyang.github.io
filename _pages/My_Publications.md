@@ -16,7 +16,7 @@ X. Hou<sup>#</sup>, Z. Wu<sup>#</sup>, F. Wang, S. Zhu, B. Yan, and **Z. Yang**<
 [Nature Communications 17, 1579 (2026)](https://www.nature.com/articles/s41467-026-68293-8). 17 Jan. 2026. [arXiv](https://arxiv.org/abs/2505.10180). 15 May 2025.
 
 1. Parity-time-symmetric bimorphic topological insulators. <br>
-Tuo. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Yang**<sup>*</sup>. <br>
+T. Wan<sup>#</sup>, S. Zhang<sup>#</sup>, X. Hou, F. Wang, H. Xue, and **Z. Yang**<sup>*</sup>. <br>
 [Advanced Materials 38(13), e19324 (2026)](https://doi.org/10.1002/adma.202519324). 20 Jan. 2026.
 
 1. Nonlinear photonic tripartite phase. <br>
@@ -28,7 +28,7 @@ X. Hou<sup>#</sup>, D. Wang<sup>#</sup>, F. Wang, C. Lu, **Z. Yang**<sup>*</sup>
 arXiv:2602.04259 (2026). 4 Feb. 2026.
 
 1. Advances on Topological Photonics in Non-Hermitian, Spatial-Temporal, Nonlinear, and Quantum Regimes. <br>
-Fangyu Wan, Xiangrui Hou, Yeyang Sun, Yiqi Zhang<sup>†</sup>, Dawei Wang<sup>†</sup> and **Zhaoju Yang**<sup>†</sup>. <br>
+Fangyu Wang, Xiangrui Hou, Yeyang Sun, Yiqi Zhang<sup>†</sup>, Dawei Wang<sup>†</sup> and **Zhaoju Yang**<sup>†</sup>. <br>
 [Laser & Photonics Reviews 0:e71929 (2026)](https://doi.org/10.1002/lpor.71929). Invited Review. 21 Sep. 2026.
 
 1. Frustrated Non-Hermitian Skin Effect in a Floquet Photonic System. <br>
@@ -36,7 +36,7 @@ Fangyu Wang<sup>#</sup>, Tuo Wan<sup>#</sup>, Zhaoxin Wu, Xiangrui Hou, Courtney
 [Laser & Photonics Reviews 0:e71723 (2026)](https://doi.org/10.1002/lpor.71723). 15 Aug. 2026.
 
 1. Synergistically Enhanced Seebeck Coefficient and Electrical Conductivity Enable High Power Factor in PbTe/Ge Heterostructures for Broadband Photothermoelectric Detection. <br>
-H. Zhu Wang, ... Z. Yang, H. Wu a, S. Zhao. <br>
+H. Zhu, ... Z. Yang, H. Wu a, S. Zhao. <br>
 Nano Energy 158, 112297 (2026). 12 Aug. 2026.
 
 1. Noncollinear ferrielectricity in a van der Waals crystal. <br>
