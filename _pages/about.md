@@ -74,6 +74,10 @@ News
 
 Selected Publications
 ======
+1. Fractality-induced photonic topological insulators. <br>
+S. Zhang<sup>#</sup>, Z. Wu<sup>#</sup>, L. Eek, C. M. Smith<sup>*</sup>, and **Z. Yang**<sup>*</sup>. <br>
+[Nature Communications], in press.
+
 1. Altermagnetism in a new light. **Z. Yang**<sup>*</sup>.  <br>
 [Nature Physics, News & Views (2026)](https://doi.org/10.1038/s41567-026-03532-9). 11 Nov. 2026.
 
