@@ -45,7 +45,7 @@ Nature Communications 17 (1), 4245 (2026). 19 Mar. 2026.
 
 1. Non-Hermitian interacting quantum walks of correlated photons. <br>
 T. Wan & **Z. Yang**<sup>†</sup>. <br>
-[Commu. Phys. 8, 131 (2025)](https://doi.org/10.1038/s42005-025-02038-9). 1 Apr. 2025.
+[Communications Physics 8, 131 (2025)](https://doi.org/10.1038/s42005-025-02038-9). 1 Apr. 2025.
 
 1. Single Ultrafast Pulses Shaped to Spatiotemporal Images. <br>
 B. Wu<sup>#</sup>, H. Zhang<sup>#</sup>, G. Chen, Y. Sun, W. Zhang, S. Zhu, **Z. Yang**, Z. Ruan<sup>†</sup>. <br>
@@ -61,7 +61,7 @@ Q. Liang<sup>#</sup>, Z. Dong<sup>#</sup>,J.-S. Pan<sup>#</sup>, H. Wang, H. Li,
 
 1. Quantum topological photonics with special focus on waveguide systems. <br>
 J. Gao<sup>†</sup>, Z. Xu, **Z. Yang**<sup>†</sup>, V. Zwiller & A. W. Elshaari<sup>†</sup>. <br>
-[npj Nanophoton. 1, 34 (2024)](https://doi.org/10.1038/s44310-024-00034-5). Aug. 30, 2024. Review article.
+[npj Nanophotonics 1, 34 (2024)](https://doi.org/10.1038/s44310-024-00034-5). Aug. 30, 2024. Review article.
 
 1. Imaginary disorder-induced many-body localization and dynamical jumping. <br>
 J. Li, L. Ying, and **Z. Yang**<sup>†</sup>. <br>
@@ -130,7 +130,7 @@ Nature 565, 622-626 (2019). ESI highly cited paper.
 
 1. Valley Kink States and Topological Channel Intersections in Substrate-Integrated Photonic Circuitry. <br>
 L. Zhang, Y. Yang<sup>†</sup>, M., H. Wang, **Z. Yang**, E. Li, F. Gao, B. Zhang, R. Singh, J. H. Jiang<sup>†</sup>, and H. Chen<sup>†</sup>. <br>
-Laser Photonics Rev. 13, 1900159 (2019).
+Laser & Photonics Reviews 13, 1900159 (2019).
 
 1. :trophy: Topologically-protected refraction of robust kink states in valley photonic crystals. <br>
 F. Gao<sup>#</sup>, H. Xue<sup>#</sup>, **Z. Yang**<sup>†</sup>, K. Lai, Y. Yu, X. Lin, Y. Chong, G. Shvets<sup>†</sup>, B. Zhang<sup>†</sup>. <br>
@@ -163,7 +163,7 @@ Phys. Rev. B 95, 014306 (2017).
 
 1. Splashing transients of 2D plasmons launched by swift electrons. <br>
 X. Lin, I. Kaminer<sup>†</sup>, X. Shi, F Gao, **Z. Yang**, Z. Gao, H. Buljan, J. D. Joannopoulos, M. Soljacic, H. Chen<sup>†</sup> and B. Zhang<sup>†</sup>. <br>
-Science Advance 3, no. 1, e1601192 (2017).
+Science Advances 3, no. 1, e1601192 (2017).
 
 1. :trophy: Acoustic type-II Weyl nodes from stacking dimerized chains. <br>
 **Z. Yang**, and B. Zhang<sup>†</sup>. <br>
@@ -180,7 +180,7 @@ Scientific Reports 6, 29202 (2016).
 
 1. Probing topological protection using a designer surface plasmon structure. <br>
 Fei Gao<sup>#</sup>, Z. Gao<sup>#</sup>, X. Shi, **Z. Yang**, X. Lin, H. Xu, J. D. Joannopoulos, M. Soljacic, H. Chen<sup>†</sup>, L. Lu, Y. Chong<sup>†</sup> and B. Zhang<sup>†</sup>. <br>
-Nature Comm. 7, 11619 (2016). ESI highly cited paper.
+Nature Communications 7, 11619 (2016). ESI highly cited paper.
 
 1. Vertical transport of subwavelength localized surface electromagnetic modes. <br>
 F. Gao, Z. Gao, Y. Zhang, X. Shi, **Z. Yang**, and B. Zhang<sup>†</sup>. <br>
